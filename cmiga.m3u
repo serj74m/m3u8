@@ -1,4 +1,1946 @@
 #EXTM3U
+#EXTINF:0 tvg-rec="1",Первый HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/204/index.m3u8
+#EXTINF:0 tvg-rec="1",Россия HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/205/index.m3u8
+#EXTINF:0 tvg-rec="1",Первый канал
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/127/index.m3u8
+#EXTINF:0 tvg-rec="1",Россия 1
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/504/index.m3u8
+#EXTINF:0 tvg-rec="1",НТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/501/index.m3u8
+#EXTINF:0 tvg-rec="1",СТС
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/506/index.m3u8
+#EXTINF:0 tvg-rec="1",ТВ3
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/508/index.m3u8
+#EXTINF:0 tvg-rec="1",РЕН ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/128/index.m3u8
+#EXTINF:0 tvg-rec="1",РЕН ТВ (+2)
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/747/index.m3u8
+#EXTINF:0 tvg-rec="1",Че
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/513/index.m3u8
+#EXTINF:0 tvg-rec="1",Домашний
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/514/index.m3u8
+#EXTINF:0 tvg-rec="1",ТНТ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/502/index.m3u8
+#EXTINF:0 tvg-rec="1",Пятница!
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/503/index.m3u8
+#EXTINF:0 tvg-rec="1",КИНО ТВ
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/732/index.m3u8
+#EXTINF:0 tvg-rec="1",Русская Комедия
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/733/index.m3u8
+#EXTINF:0 tvg-rec="1",Телеканал Звезда
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/544/index.m3u8
+#EXTINF:0 tvg-rec="1",Звезда (+2)
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/739/index.m3u8
+#EXTINF:0 tvg-rec="0",Победа
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2003/index.m3u8
+#EXTINF:0 tvg-rec="0",Красная линия
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2147/index.m3u8
+#EXTINF:0 tvg-rec="1",VIP Premiere
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/202/index.m3u8
+#EXTINF:0 tvg-rec="1",VIP Comedy
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/200/index.m3u8
+#EXTINF:0 tvg-rec="1",VIP Megahit
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/201/index.m3u8
+#EXTINF:0 tvg-rec="1",TV 1000
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/132/index.m3u8
+#EXTINF:0 tvg-rec="1",TV 1000 Action
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/131/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1065/index.m3u8
+#EXTINF:0 tvg-rec="1",TV 1000 Русское кино
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/101/index.m3u8
+#EXTINF:0 tvg-rec="1",Ностальгия
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/102/index.m3u8
+#EXTINF:0 tvg-rec="1",СТС Love
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/103/index.m3u8
+#EXTINF:0 tvg-rec="1",Sony Sci-Fi
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/110/index.m3u8
+#EXTINF:0 tvg-rec="1",Amedia 2
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/510/index.m3u8
+#EXTINF:0 tvg-rec="1",TV XXI
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/525/index.m3u8
+#EXTINF:0 tvg-rec="1",Русский Иллюзион
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/547/index.m3u8
+#EXTINF:0 tvg-rec="1",Еврокино
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/549/index.m3u8
+#EXTINF:0 tvg-rec="1",Fox Russia
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/550/index.m3u8
+#EXTINF:0 tvg-rec="1",Fox Life
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/553/index.m3u8
+#EXTINF:0 tvg-rec="1",Дом Кино
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/154/index.m3u8
+#EXTINF:0 tvg-rec="1",Amedia 1
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/554/index.m3u8
+#EXTINF:0 tvg-rec="1",Amedia Premium HD (SD)
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/555/index.m3u8
+#EXTINF:0 tvg-rec="1",AMEDIA HIT
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/556/index.m3u8
+#EXTINF:0 tvg-rec="1",Hollywood
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/557/index.m3u8
+#EXTINF:0 tvg-rec="1",Sony Entertainment Television
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/559/index.m3u8
+#EXTINF:0 tvg-rec="1",2X2
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/702/index.m3u8
+#EXTINF:0 tvg-rec="1",Sony Turbo
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/708/index.m3u8
+#EXTINF:0 tvg-rec="1",Русский бестселлер
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/905/index.m3u8
+#EXTINF:0 tvg-rec="1",Русский роман
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/906/index.m3u8
+#EXTINF:0 tvg-rec="1",Русский детектив
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/907/index.m3u8
+#EXTINF:0 tvg-rec="1",Любимое Кино
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/722/index.m3u8
+#EXTINF:0 tvg-rec="1",FAN
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/734/index.m3u8
+#EXTINF:0 tvg-rec="1",НТВ?ХИТ
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/741/index.m3u8
+#EXTINF:0 tvg-rec="1",НТВ Сериал
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/744/index.m3u8
+#EXTINF:0 tvg-rec="1",НСТ
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/726/index.m3u8
+#EXTINF:0 tvg-rec="1",Bollywood
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/719/index.m3u8
+#EXTINF:0 tvg-rec="0",ZEE TV
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1001/index.m3u8
+#EXTINF:0 tvg-rec="0",Filmbox Arthouse
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1071/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1066/index.m3u8
+#EXTINF:0 tvg-rec="1",Мир Сериала
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/856/index.m3u8
+#EXTINF:0 tvg-rec="0",Ретро
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2018/index.m3u8
+#EXTINF:0 tvg-rec="0",Иллюзион +
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2038/index.m3u8
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2039/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Channel
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2055/index.m3u8
+#EXTINF:0 tvg-rec="0",Sony Channel HD
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2062/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносат
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2121/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinema
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5051/index.m3u8
+#EXTINF:0 tvg-rec="1",История
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/111/index.m3u8
+#EXTINF:0 tvg-rec="1",Моя Планета
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/117/index.m3u8
+#EXTINF:0 tvg-rec="1",Outdoor Channel
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/119/index.m3u8
+#EXTINF:0 tvg-rec="1",Совершенно секретно
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/121/index.m3u8
+#EXTINF:0 tvg-rec="1",Россия-Культура
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/505/index.m3u8
+#EXTINF:0 tvg-rec="1",Доктор
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/512/index.m3u8
+#EXTINF:0 tvg-rec="1",Авто 24
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/538/index.m3u8
+#EXTINF:0 tvg-rec="1",Nat Geo Wild
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/133/index.m3u8
+#EXTINF:0 tvg-rec="1",nat geographic
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/134/index.m3u8
+#EXTINF:0 tvg-rec="1",Discovery Science
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/136/index.m3u8
+#EXTINF:0 tvg-rec="1",Animal Planet
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/137/index.m3u8
+#EXTINF:0 tvg-rec="1",ID Xtra
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/139/index.m3u8
+#EXTINF:0 tvg-rec="1",Discovery Channel
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/140/index.m3u8
+#EXTINF:0 tvg-rec="1",Авто Плюс
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/151/index.m3u8
+#EXTINF:0 tvg-rec="1",Время
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/552/index.m3u8
+#EXTINF:0 tvg-rec="1",Домашние Животные
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/158/index.m3u8
+#EXTINF:0 tvg-rec="1",Точка отрыва
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/159/index.m3u8
+#EXTINF:0 tvg-rec="0",Надежда
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2153/index.m3u8
+#EXTINF:0 tvg-rec="1",Viasat Nature
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/161/index.m3u8
+#EXTINF:0 tvg-rec="1",Viasat History
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/162/index.m3u8
+#EXTINF:0 tvg-rec="1",Viasat Explore
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/163/index.m3u8
+#EXTINF:0 tvg-rec="1",Travel Channel
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/130/index.m3u8
+#EXTINF:0 tvg-rec="1",Первый образовательный
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/701/index.m3u8
+#EXTINF:0 tvg-rec="1",OCEAN-TV
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/703/index.m3u8
+#EXTINF:0 tvg-rec="1",Бобёр
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/725/index.m3u8
+#EXTINF:0 tvg-rec="1",Зоопарк
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/731/index.m3u8
+#EXTINF:0 tvg-rec="1",E
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/736/index.m3u8
+#EXTINF:0 tvg-rec="1",Морской
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/742/index.m3u8
+#EXTINF:0 tvg-rec="1",Усадьба
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/532/index.m3u8
+#EXTINF:0 tvg-rec="0",English Club TV
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/993/index.m3u8
+#EXTINF:0 tvg-rec="0",H2
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1052/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel TV
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1044/index.m3u8
+#EXTINF:0 tvg-rec="0",Classical Harmony
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1037/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel Channel EN
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1070/index.m3u8
+#EXTINF:0 tvg-rec="1",History Russia
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/837/index.m3u8
+#EXTINF:0 tvg-rec="1",RTG TV
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/841/index.m3u8
+#EXTINF:0 tvg-rec="1",Первый Метео
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/845/index.m3u8
+#EXTINF:0 tvg-rec="1",Дикий
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/847/index.m3u8
+#EXTINF:0 tvg-rec="1",Spike Russia
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/849/index.m3u8
+#EXTINF:0 tvg-rec="1",travel+adventure
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/850/index.m3u8
+#EXTINF:0 tvg-rec="1",Поехали!
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/135/index.m3u8
+#EXTINF:0 tvg-rec="0",Galaxy
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2010/index.m3u8
+#EXTINF:0 tvg-rec="0",Охота и рыбалка
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2019/index.m3u8
+#EXTINF:0 tvg-rec="0",ЕГЭ ТВ
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2020/index.m3u8
+#EXTINF:0 tvg-rec="0",HD Media
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2037/index.m3u8
+#EXTINF:0 tvg-rec="0",365 дней ТВ
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2040/index.m3u8
+#EXTINF:0 tvg-rec="0",Телепутешествия
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2051/index.m3u8
+#EXTINF:0 tvg-rec="0",Здоровье
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2054/index.m3u8
+#EXTINF:0 tvg-rec="0",ТАЙНА
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2059/index.m3u8
+#EXTINF:0 tvg-rec="0",Синергия ТВ
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2067/index.m3u8
+#EXTINF:0 tvg-rec="0",Нано ТВ
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2081/index.m3u8
+#EXTINF:0 tvg-rec="0",Investigation Discovery
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2085/index.m3u8
+#EXTINF:0 tvg-rec="0",Оружие
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2087/index.m3u8
+#EXTINF:0 tvg-rec="0",Зоо ТВ
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2100/index.m3u8
+#EXTINF:0 tvg-rec="0",Живая Планета
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2101/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша тема
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2118/index.m3u8
+#EXTINF:0 tvg-rec="0",Пёс и Ко
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2123/index.m3u8
+#EXTINF:0 tvg-rec="0",Наука HD
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2155/index.m3u8
+#EXTINF:0 tvg-rec="0",Sea TV
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5036/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашние животные
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5046/index.m3u8
+#EXTINF:0 tvg-rec="0",Е
+#EXTGRP:познавательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5048/index.m3u8
+#EXTINF:0 tvg-rec="1",Tiji TV
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/108/index.m3u8
+#EXTINF:0 tvg-rec="1",Gulli
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/109/index.m3u8
+#EXTINF:0 tvg-rec="1",Nick Jr
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/114/index.m3u8
+#EXTINF:0 tvg-rec="1",Nickelodeon
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/541/index.m3u8
+#EXTINF:0 tvg-rec="1",Disney
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/524/index.m3u8
+#EXTINF:0 tvg-rec="1",Детский мир
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/543/index.m3u8
+#EXTINF:0 tvg-rec="1",Jim Jam
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/138/index.m3u8
+#EXTINF:0 tvg-rec="1",Cartoon Network
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/143/index.m3u8
+#EXTINF:0 tvg-rec="1",Карусель
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/156/index.m3u8
+#EXTINF:0 tvg-rec="1",Ani
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/129/index.m3u8
+#EXTINF:0 tvg-rec="1",Мульт
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/909/index.m3u8
+#EXTINF:0 tvg-rec="1",Тлум HD
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/240/index.m3u8
+#EXTINF:0 tvg-rec="1",Boomerang
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/723/index.m3u8
+#EXTINF:0 tvg-rec="1",О!
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/727/index.m3u8
+#EXTINF:0 tvg-rec="1",Детский
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/730/index.m3u8
+#EXTINF:0 tvg-rec="1",В гостях у сказки
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/737/index.m3u8
+#EXTINF:0 tvg-rec="1",Карусель (+3)
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/740/index.m3u8
+#EXTINF:0 tvg-rec="1",Мультимузыка
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/749/index.m3u8
+#EXTINF:0 tvg-rec="1",Мультик HD
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/921/index.m3u8
+#EXTINF:0 tvg-rec="0",Duck TV
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1031/index.m3u8
+#EXTINF:0 tvg-rec="0",Baby TV
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2084/index.m3u8
+#EXTINF:0 tvg-rec="0",Da Vinci Kids
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1033/index.m3u8
+#EXTINF:0 tvg-rec="0",Da Vinci Kids PL
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1034/index.m3u8
+#EXTINF:0 tvg-rec="0",Малыш
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1041/index.m3u8
+#EXTINF:0 tvg-rec="0",Nickelodeon EN
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1069/index.m3u8
+#EXTINF:0 tvg-rec="1",Радость моя
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/853/index.m3u8
+#EXTINF:0 tvg-rec="0",Рыжий
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2052/index.m3u8
+#EXTINF:0 tvg-rec="0",Капитан Фантастика
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2098/index.m3u8
+#EXTINF:0 tvg-rec="0",UTv
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2103/index.m3u8
+#EXTINF:0 tvg-rec="0",Тамыр
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2109/index.m3u8
+#EXTINF:0 tvg-rec="0",Пингвин Лоло
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2152/index.m3u8
+#EXTINF:0 tvg-rec="0",Смайлик ТВ
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2157/index.m3u8
+#EXTINF:0 tvg-rec="0",Мультиландия
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5055/index.m3u8
+#EXTINF:0 tvg-rec="0",Уникум
+#EXTGRP:детские
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5056/index.m3u8
+#EXTINF:0 tvg-rec="1",ТНТ4
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/104/index.m3u8
+#EXTINF:0 tvg-rec="1",ЖАРА
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/105/index.m3u8
+#EXTINF:0 tvg-rec="1",Paramount Comedy Russia
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/157/index.m3u8
+#EXTINF:0 tvg-rec="1",ТНТ (+2)
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/717/index.m3u8
+#EXTINF:0 tvg-rec="1",НТВ Стиль
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/745/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion One
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1010/index.m3u8
+#EXTINF:0 tvg-rec="0",World Fashion Channel
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1068/index.m3u8
+#EXTINF:0 tvg-rec="1",Супер
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/826/index.m3u8
+#EXTINF:0 tvg-rec="0",Драйв
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2021/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужской
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2047/index.m3u8
+#EXTINF:0 tvg-rec="0",Luxury World
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2072/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Premium
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2105/index.m3u8
+#EXTINF:0 tvg-rec="0",Luxury
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5032/index.m3u8
+#EXTINF:0 tvg-rec="0",Анекдот ТВ
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5034/index.m3u8
+#EXTINF:0 tvg-rec="0",Театр
+#EXTGRP:развлекательные
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2431/index.m3u8
+#EXTINF:0 tvg-rec="1",Мир
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/113/index.m3u8
+#EXTINF:0 tvg-rec="1",ТНВ-Планета
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/515/index.m3u8
+#EXTINF:0 tvg-rec="1",ТВЦ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/520/index.m3u8
+#EXTINF:0 tvg-rec="1",Телеканал Да Винчи
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/537/index.m3u8
+#EXTINF:0 tvg-rec="1",Ю ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/534/index.m3u8
+#EXTINF:0 tvg-rec="1",КВН ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/546/index.m3u8
+#EXTINF:0 tvg-rec="1",Мама
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/704/index.m3u8
+#EXTINF:0 tvg-rec="1",ОТР
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/705/index.m3u8
+#EXTINF:0 tvg-rec="1",CBS Reality
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/706/index.m3u8
+#EXTINF:0 tvg-rec="1",ТВЦ (+2)
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/716/index.m3u8
+#EXTINF:0 tvg-rec="1",NHK World TV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/729/index.m3u8
+#EXTINF:0 tvg-rec="1",Fine Living
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/735/index.m3u8
+#EXTINF:0 tvg-rec="1",НТВ Право
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/743/index.m3u8
+#EXTINF:0 tvg-rec="1",Сарафан
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/748/index.m3u8
+#EXTINF:0 tvg-rec="0",CNL
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/955/index.m3u8
+#EXTINF:0 tvg-rec="0",Al Jazeera
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/960/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP Info
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/961/index.m3u8
+#EXTINF:0 tvg-rec="0",France 24
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/964/index.m3u8
+#EXTINF:0 tvg-rec="0",AzTV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/966/index.m3u8
+#EXTINF:0 tvg-rec="0",Life TV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/971/index.m3u8
+#EXTINF:0 tvg-rec="0",ТБН
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/974/index.m3u8
+#EXTINF:0 tvg-rec="0",СПАС
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/983/index.m3u8
+#EXTINF:0 tvg-rec="0",WnessTV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/984/index.m3u8
+#EXTINF:0 tvg-rec="0",Архыз 24
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1049/index.m3u8
+#EXTINF:0 tvg-rec="0",CBC AZ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1050/index.m3u8
+#EXTINF:0 tvg-rec="0",GUNAZ TV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1051/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabbala TV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1053/index.m3u8
+#EXTINF:0 tvg-rec="0",8 канал
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1057/index.m3u8
+#EXTINF:0 tvg-rec="0",Астрахань 24
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1059/index.m3u8
+#EXTINF:0 tvg-rec="1",Shop & Show
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/827/index.m3u8
+#EXTINF:0 tvg-rec="1",CCTV-4 Europe
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/829/index.m3u8
+#EXTINF:0 tvg-rec="1",Башкирское спутниковое телевидение
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/832/index.m3u8
+#EXTINF:0 tvg-rec="1",Первый Вегетарианский
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/833/index.m3u8
+#EXTINF:0 tvg-rec="1",RT Documentary
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/839/index.m3u8
+#EXTINF:0 tvg-rec="1",Просвещение
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/846/index.m3u8
+#EXTINF:0 tvg-rec="1",Продвижение
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/851/index.m3u8
+#EXTINF:0 tvg-rec="1",Загородная Жизнь
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/852/index.m3u8
+#EXTINF:0 tvg-rec="1",Грозный
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/855/index.m3u8
+#EXTINF:0 tvg-rec="1",Брянская Губерния
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/857/index.m3u8
+#EXTINF:0 tvg-rec="1",Shopping Live
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/860/index.m3u8
+#EXTINF:0 tvg-rec="1",Shop 24
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/861/index.m3u8
+#EXTINF:0 tvg-rec="1",Твой дом
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/864/index.m3u8
+#EXTINF:0 tvg-rec="1",Телекафе
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/865/index.m3u8
+#EXTINF:0 tvg-rec="1",Кубань 24 ОРБИТА
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/866/index.m3u8
+#EXTINF:0 tvg-rec="1",Губерния
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/867/index.m3u8
+#EXTINF:0 tvg-rec="1",ACB TV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/868/index.m3u8
+#EXTINF:0 tvg-rec="1",Москва Доверие
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/869/index.m3u8
+#EXTINF:0 tvg-rec="0",Союз
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2016/index.m3u8
+#EXTINF:0 tvg-rec="0",Здоровое ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2022/index.m3u8
+#EXTINF:0 tvg-rec="0",Психология 21
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2025/index.m3u8
+#EXTINF:0 tvg-rec="0",Вопросы и ответы
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2026/index.m3u8
+#EXTINF:0 tvg-rec="0",ТДК
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2034/index.m3u8
+#EXTINF:0 tvg-rec="0",Globalstar TV
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2035/index.m3u8
+#EXTINF:0 tvg-rec="0",Юрган
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2036/index.m3u8
+#EXTINF:0 tvg-rec="0",Успех
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2041/index.m3u8
+#EXTINF:0 tvg-rec="0",Кто есть кто
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2042/index.m3u8
+#EXTINF:0 tvg-rec="0",Точка ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2053/index.m3u8
+#EXTINF:0 tvg-rec="0",Хамдан
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2066/index.m3u8
+#EXTINF:0 tvg-rec="0",Раз ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2069/index.m3u8
+#EXTINF:0 tvg-rec="0",Arirang
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2071/index.m3u8
+#EXTINF:0 tvg-rec="0",Открытый мир
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2078/index.m3u8
+#EXTINF:0 tvg-rec="0",Загородный
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2099/index.m3u8
+#EXTINF:0 tvg-rec="0",БСТ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2108/index.m3u8
+#EXTINF:0 tvg-rec="0",ЛДПР ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2110/index.m3u8
+#EXTINF:0 tvg-rec="0",Связист ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2111/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Увлечений
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2112/index.m3u8
+#EXTINF:0 tvg-rec="0",Волга
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2113/index.m3u8
+#EXTINF:0 tvg-rec="0",Три ангела
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2116/index.m3u8
+#EXTINF:0 tvg-rec="0",Ратник
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2119/index.m3u8
+#EXTINF:0 tvg-rec="0",РЖД ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2120/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Крымский
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2139/index.m3u8
+#EXTINF:0 tvg-rec="0",ТОЛК
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2140/index.m3u8
+#EXTINF:0 tvg-rec="0",КРЫМ 24
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2143/index.m3u8
+#EXTINF:0 tvg-rec="0",Курай HD
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2144/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНОМЕР
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2149/index.m3u8
+#EXTINF:0 tvg-rec="0",Хузур ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2150/index.m3u8
+#EXTINF:0 tvg-rec="0",Эхо ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2151/index.m3u8
+#EXTINF:0 tvg-rec="0",Калейдоскоп ТВ
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5037/index.m3u8
+#EXTINF:0 tvg-rec="1",ЖИВИ!
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/738/index.m3u8
+#EXTINF:0 tvg-rec="0",Т 24
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5047/index.m3u8
+#EXTINF:0 tvg-rec="0",Липецк Time
+#EXTGRP:другие
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2435/index.m3u8
+#EXTINF:0 tvg-rec="1",Viasat Nature/History HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/203/index.m3u8
+#EXTINF:0 tvg-rec="1",Матч! Футбол 3 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/206/index.m3u8
+#EXTINF:0 tvg-rec="1",Матч! Арена HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/207/index.m3u8
+#EXTINF:0 tvg-rec="1",Hollywood HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/209/index.m3u8
+#EXTINF:0 tvg-rec="1",RTG HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/210/index.m3u8
+#EXTINF:0 tvg-rec="1",Матч! Футбол 2 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/211/index.m3u8
+#EXTINF:0 tvg-rec="1",Матч! HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/212/index.m3u8
+#EXTINF:0 tvg-rec="1",НТВ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/213/index.m3u8
+#EXTINF:0 tvg-rec="1",Конный Мир HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/214/index.m3u8
+#EXTINF:0 tvg-rec="1",Телеканал КХЛ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/215/index.m3u8
+#EXTINF:0 tvg-rec="1",Nat Geo Wild HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/216/index.m3u8
+#EXTINF:0 tvg-rec="1",Mezzo Live HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/217/index.m3u8
+#EXTINF:0 tvg-rec="1",Animal Planet HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/218/index.m3u8
+#EXTINF:0 tvg-rec="1",Fox HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/219/index.m3u8
+#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/220/index.m3u8
+#EXTINF:0 tvg-rec="1",MTV Live HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/221/index.m3u8
+#EXTINF:0 tvg-rec="1",Матч! Футбол 1 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/222/index.m3u8
+#EXTINF:0 tvg-rec="1",Nickelodeon HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/223/index.m3u8
+#EXTINF:0 tvg-rec="1",Матч! Игра HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/225/index.m3u8
+#EXTINF:0 tvg-rec="1",HD Life
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/226/index.m3u8
+#EXTINF:0 tvg-rec="1",Discovery Channel HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/227/index.m3u8
+#EXTINF:0 tvg-rec="1",Eurosport 1 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/228/index.m3u8
+#EXTINF:0 tvg-rec="1",Amedia Premium HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/229/index.m3u8
+#EXTINF:0 tvg-rec="1",National Geographic HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/230/index.m3u8
+#EXTINF:0 tvg-rec="1",History HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/231/index.m3u8
+#EXTINF:0 tvg-rec="1",TLC HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/232/index.m3u8
+#EXTINF:0 tvg-rec="1",Travel Channel HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/233/index.m3u8
+#EXTINF:0 tvg-rec="1",Eurosport 2 North-East HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/234/index.m3u8
+#EXTINF:0 tvg-rec="1",Остросюжетное HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/904/index.m3u8
+#EXTINF:0 tvg-rec="1",Дом Кино Премиум HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/911/index.m3u8
+#EXTINF:0 tvg-rec="0",Шокирующее
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/913/index.m3u8
+#EXTINF:0 tvg-rec="1",Комедийное HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/912/index.m3u8
+#EXTINF:0 tvg-rec="1",Наш Кинороман HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/914/index.m3u8
+#EXTINF:0 tvg-rec="1",Наше крутое HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/915/index.m3u8
+#EXTINF:0 tvg-rec="1",Охотник и рыболов HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/917/index.m3u8
+#EXTINF:0 tvg-rec="1",ЕДА Премиум
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/918/index.m3u8
+#EXTINF:0 tvg-rec="1",Мир HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/235/index.m3u8
+#EXTINF:0 tvg-rec="1",BRIDGE HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/236/index.m3u8
+#EXTINF:0 tvg-rec="1",ТНТ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/237/index.m3u8
+#EXTINF:0 tvg-rec="1",Bollywood HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/239/index.m3u8
+#EXTINF:0 tvg-rec="0",Теледом
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/954/index.m3u8
+#EXTINF:0 tvg-rec="0",4ever Music
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/970/index.m3u8
+#EXTINF:0 tvg-rec="0",Настоящее время
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/986/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1043/index.m3u8
+#EXTINF:0 tvg-rec="0",XSPORT HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/996/index.m3u8
+#EXTINF:0 tvg-rec="0",FAST&FUN BOX HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1018/index.m3u8
+#EXTINF:0 tvg-rec="0",Epic Drama
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1048/index.m3u8
+#EXTINF:0 tvg-rec="1",Эврика HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/908/index.m3u8
+#EXTINF:0 tvg-rec="1",Приключения HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/920/index.m3u8
+#EXTINF:0 tvg-rec="0",DocuBox HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/968/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2567/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/270/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/271/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports Ukraine HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/272/index.m3u8
+#EXTINF:0 tvg-rec="0",UFC ТВ
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2000/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС Kids HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2001/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport Gold HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2002/index.m3u8
+#EXTINF:0 tvg-rec="0",Дикая охота HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2004/index.m3u8
+#EXTINF:0 tvg-rec="0",Дикая рыбалка HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2005/index.m3u8
+#EXTINF:0 tvg-rec="0",DTX HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2006/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Sport HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2007/index.m3u8
+#EXTINF:0 tvg-rec="0",Большая Азия HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2009/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Network HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2011/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2024/index.m3u8
+#EXTINF:0 tvg-rec="0",Fine living HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2027/index.m3u8
+#EXTINF:0 tvg-rec="0",C-Music HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2028/index.m3u8
+#EXTINF:0 tvg-rec="0",H2 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2033/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion One HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2044/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2045/index.m3u8
+#EXTINF:0 tvg-rec="0",A2 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2046/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноужас HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2056/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery HD Showcase
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2058/index.m3u8
+#EXTINF:0 tvg-rec="0",360° HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2065/index.m3u8
+#EXTINF:0 tvg-rec="0",Живая природа HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2074/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский роман HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2076/index.m3u8
+#EXTINF:0 tvg-rec="0",Russian Extreme HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2077/index.m3u8
+#EXTINF:0 tvg-rec="0",В мире животных HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2089/index.m3u8
+#EXTINF:0 tvg-rec="0",Планета HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2090/index.m3u8
+#EXTINF:0 tvg-rec="0",Anyday HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2091/index.m3u8
+#EXTINF:0 tvg-rec="0",Glazella HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2092/index.m3u8
+#EXTINF:0 tvg-rec="0",Mute HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2093/index.m3u8
+#EXTINF:0 tvg-rec="0",Anyday HD 3D
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2094/index.m3u8
+#EXTINF:0 tvg-rec="0",Glazella HD 3D
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2095/index.m3u8
+#EXTINF:0 tvg-rec="0",Mute HD 3D
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2096/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНО ТВ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2097/index.m3u8
+#EXTINF:0 tvg-rec="0",ID Xtra HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2102/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами туриста HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2104/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше любимое HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2106/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир 24 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2107/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский иллюзион HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2114/index.m3u8
+#EXTINF:0 tvg-rec="0",БСТ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2115/index.m3u8
+#EXTINF:0 tvg-rec="0",Загородный int HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2124/index.m3u8
+#EXTINF:0 tvg-rec="0",Кухня ТВ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2127/index.m3u8
+#EXTINF:0 tvg-rec="0",Точка отрыва HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2128/index.m3u8
+#EXTINF:0 tvg-rec="0",Жара HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2129/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV Россия HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2130/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2131/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2132/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше новое кино HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2133/index.m3u8
+#EXTINF:0 tvg-rec="0",Нано ТВ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2135/index.m3u8
+#EXTINF:0 tvg-rec="0",о2тв HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2141/index.m3u8
+#EXTINF:0 tvg-rec="0",Моторспорт ТВ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2146/index.m3u8
+#EXTINF:0 tvg-rec="0",Открытый HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2148/index.m3u8
+#EXTINF:0 tvg-rec="0",Диалоги о рыбалке HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2394/index.m3u8
+#EXTINF:0 tvg-rec="0",Clubbing TV HD RU
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2395/index.m3u8
+#EXTINF:0 tvg-rec="0",Fuel TV HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2396/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Qazaqstan HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2399/index.m3u8
+#EXTINF:0 tvg-rec="0",Губерния 33 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2400/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 3 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/290/index.m3u8
+#EXTINF:0 tvg-rec="0",Jurnal TV HD MD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5008/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5031/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5033/index.m3u8
+#EXTINF:0 tvg-rec="0",Е HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5035/index.m3u8
+#EXTINF:0 tvg-rec="0",Арсенал HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5044/index.m3u8
+#EXTINF:0 tvg-rec="0",Galaxy HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5045/index.m3u8
+#EXTINF:0 tvg-rec="0",568 HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5049/index.m3u8
+#EXTINF:0 tvg-rec="0",Победа HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5052/index.m3u8
+#EXTINF:0 tvg-rec="0",Романтичное HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5053/index.m3u8
+#EXTINF:0 tvg-rec="0",День Победы HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5054/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Channel HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5063/index.m3u8
+#EXTINF:0 tvg-rec="0",Про Любовь HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2430/index.m3u8
+#EXTINF:0 tvg-rec="0",Сочи HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2433/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Кинопоказ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2434/index.m3u8
+#EXTINF:0 tvg-rec="0",Блокбастер HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2436/index.m3u8
+#EXTINF:0 tvg-rec="0",Хит HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2438/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинопоказ HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2439/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше Мужское HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2440/index.m3u8
+#EXTINF:0 tvg-rec="0",Камеди HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2441/index.m3u8
+#EXTINF:0 tvg-rec="0",AIVA HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2442/index.m3u8
+#EXTINF:0 tvg-rec="0",VIP Serial HD
+#EXTGRP:HD
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2443/index.m3u8
+#EXTINF:0 tvg-rec="1",SHOT TV
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/526/index.m3u8
+#EXTINF:0 tvg-rec="1",Playboy
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/527/index.m3u8
+#EXTINF:0 tvg-rec="1",Brazzers TV Europe
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/910/index.m3u8
+#EXTINF:0 tvg-rec="1",Шалун
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/922/index.m3u8
+#EXTINF:0 tvg-rec="1",Candy
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/923/index.m3u8
+#EXTINF:0 tvg-rec="0",Penthouse TV
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1073/index.m3u8
+#EXTINF:0 tvg-rec="0",Blue Hustler
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1064/index.m3u8
+#EXTINF:0 tvg-rec="1",Barely legal
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/871/index.m3u8
+#EXTINF:0 tvg-rec="1",BRAZZERS TV Europe 2
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/872/index.m3u8
+#EXTINF:0 tvg-rec="1",Sexto Senso
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/875/index.m3u8
+#EXTINF:0 tvg-rec="0",SCT
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/876/index.m3u8
+#EXTINF:0 tvg-rec="1",PRIVE
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/877/index.m3u8
+#EXTINF:0 tvg-rec="1",Passion XXX
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/878/index.m3u8
+#EXTINF:0 tvg-rec="1",Redlight HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/242/index.m3u8
+#EXTINF:0 tvg-rec="1",Private TV
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/243/index.m3u8
+#EXTINF:0 tvg-rec="0",Hustler HD Europe
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/244/index.m3u8
+#EXTINF:0 tvg-rec="1",Dorcel TV HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/245/index.m3u8
+#EXTINF:0 tvg-rec="1",Pink'o TV
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/874/index.m3u8
+#EXTINF:0 tvg-rec="0",Ночной клуб
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2017/index.m3u8
+#EXTINF:0 tvg-rec="0",Нюарт TV
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2057/index.m3u8
+#EXTINF:0 tvg-rec="0",FrenchLover
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2160/index.m3u8
+#EXTINF:0 tvg-rec="0",O-la-la
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2161/index.m3u8
+#EXTINF:0 tvg-rec="0",Vivid Red HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2162/index.m3u8
+#EXTINF:0 tvg-rec="0",Exxxotica HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2397/index.m3u8
+#EXTINF:0 tvg-rec="0",XXL
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5009/index.m3u8
+#EXTINF:0 tvg-rec="0",Penthouse Passion
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5010/index.m3u8
+#EXTINF:0 tvg-rec="0",Penthouse Gold HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5011/index.m3u8
+#EXTINF:0 tvg-rec="0",Penthouse Quickies 1300k
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5012/index.m3u8
+#EXTINF:0 tvg-rec="0",Penthouse Quickies HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5013/index.m3u8
+#EXTINF:0 tvg-rec="0",Extasy 4K
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5014/index.m3u8
+#EXTINF:0 tvg-rec="0",Eroxxx HD
+#EXTGRP:взрослые
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5015/index.m3u8
+#EXTINF:0 tvg-rec="0",5 канал UA
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/945/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmBox
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/948/index.m3u8
+#EXTINF:0 tvg-rec="0",24 Канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/951/index.m3u8
+#EXTINF:0 tvg-rec="0",ATR
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/952/index.m3u8
+#EXTINF:0 tvg-rec="0",Lale
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/953/index.m3u8
+#EXTINF:0 tvg-rec="0",Надiя ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/956/index.m3u8
+#EXTINF:0 tvg-rec="0",Перший Захiдний
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/957/index.m3u8
+#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/958/index.m3u8
+#EXTINF:0 tvg-rec="0",BBB TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/959/index.m3u8
+#EXTINF:0 tvg-rec="0",Центральный канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/963/index.m3u8
+#EXTINF:0 tvg-rec="0",Черноморская ТРК
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/965/index.m3u8
+#EXTINF:0 tvg-rec="0",112 Україна
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/924/index.m3u8
+#EXTINF:0 tvg-rec="0",EU Music
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/925/index.m3u8
+#EXTINF:0 tvg-rec="0",NewsOne
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/926/index.m3u8
+#EXTINF:0 tvg-rec="0",Eспресо TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/927/index.m3u8
+#EXTINF:0 tvg-rec="0",Мега
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/929/index.m3u8
+#EXTINF:0 tvg-rec="0",К2
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/930/index.m3u8
+#EXTINF:0 tvg-rec="0",К1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/931/index.m3u8
+#EXTINF:0 tvg-rec="0",Квартал ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/932/index.m3u8
+#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/933/index.m3u8
+#EXTINF:0 tvg-rec="0",Новий Канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/935/index.m3u8
+#EXTINF:0 tvg-rec="0",НТН
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/936/index.m3u8
+#EXTINF:0 tvg-rec="0",Інтер
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/937/index.m3u8
+#EXTINF:0 tvg-rec="0",Пiксель ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/938/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый городской (Кривой Рог)
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/939/index.m3u8
+#EXTINF:0 tvg-rec="0",ID Fashion
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/940/index.m3u8
+#EXTINF:0 tvg-rec="0",Культура
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/941/index.m3u8
+#EXTINF:0 tvg-rec="0",Телевсесвiт
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/942/index.m3u8
+#EXTINF:0 tvg-rec="0",Медiаiнформ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/943/index.m3u8
+#EXTINF:0 tvg-rec="0",Skrypin.UA
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/944/index.m3u8
+#EXTINF:0 tvg-rec="0",ТРК Алекс
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/967/index.m3u8
+#EXTINF:0 tvg-rec="0",Глас
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/972/index.m3u8
+#EXTINF:0 tvg-rec="0",Правда Тут
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/973/index.m3u8
+#EXTINF:0 tvg-rec="0",Тернопіль 1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/975/index.m3u8
+#EXTINF:0 tvg-rec="0",Рада
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/976/index.m3u8
+#EXTINF:0 tvg-rec="0",MAXXI TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/977/index.m3u8
+#EXTINF:0 tvg-rec="0",News Network
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/978/index.m3u8
+#EXTINF:0 tvg-rec="0",Южная волна
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/979/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый городской
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/981/index.m3u8
+#EXTINF:0 tvg-rec="0",СК1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/982/index.m3u8
+#EXTINF:0 tvg-rec="0",Перший дiловий
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/985/index.m3u8
+#EXTINF:0 tvg-rec="0",1+1 International
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/987/index.m3u8
+#EXTINF:0 tvg-rec="0",Громадське
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/988/index.m3u8
+#EXTINF:0 tvg-rec="0",BOLT
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/991/index.m3u8
+#EXTINF:0 tvg-rec="0",Star Cinema
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/992/index.m3u8
+#EXTINF:0 tvg-rec="0",Чернiвецький Промiнь
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1004/index.m3u8
+#EXTINF:0 tvg-rec="0",UA:Перший
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1016/index.m3u8
+#EXTINF:0 tvg-rec="0",UA:Крым
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1017/index.m3u8
+#EXTINF:0 tvg-rec="0",MostVideo.TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1027/index.m3u8
+#EXTINF:0 tvg-rec="0",OBOZ TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1028/index.m3u8
+#EXTINF:0 tvg-rec="0",TV5
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1030/index.m3u8
+#EXTINF:0 tvg-rec="0",Star Family
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1042/index.m3u8
+#EXTINF:0 tvg-rec="0",Интер+
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1047/index.m3u8
+#EXTINF:0 tvg-rec="0",O-TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1055/index.m3u8
+#EXTINF:0 tvg-rec="0",D1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1058/index.m3u8
+#EXTINF:0 tvg-rec="0",1+1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/994/index.m3u8
+#EXTINF:0 tvg-rec="0",2+2
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/995/index.m3u8
+#EXTINF:0 tvg-rec="0",UKRAINE 1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/997/index.m3u8
+#EXTINF:0 tvg-rec="0",Бiгудi
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/989/index.m3u8
+#EXTINF:0 tvg-rec="0",НТА
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/990/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВА
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/998/index.m3u8
+#EXTINF:0 tvg-rec="0",Вiнтаж ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/999/index.m3u8
+#EXTINF:0 tvg-rec="0",ZOOM
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1000/index.m3u8
+#EXTINF:0 tvg-rec="0",ПлюсПлюс
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1002/index.m3u8
+#EXTINF:0 tvg-rec="0",Малятко ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1003/index.m3u8
+#EXTINF:0 tvg-rec="0",Галичина
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1005/index.m3u8
+#EXTINF:0 tvg-rec="0",Еко TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1006/index.m3u8
+#EXTINF:0 tvg-rec="0",ZIK HD
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1007/index.m3u8
+#EXTINF:0 tvg-rec="0",ZIK
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1008/index.m3u8
+#EXTINF:0 tvg-rec="0",ТЕТ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1009/index.m3u8
+#EXTINF:0 tvg-rec="0",Україна
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1011/index.m3u8
+#EXTINF:0 tvg-rec="0",HDFASHION&LifeStyle
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1012/index.m3u8
+#EXTINF:0 tvg-rec="0",Сонце
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1013/index.m3u8
+#EXTINF:0 tvg-rec="0",NLO TV2
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1014/index.m3u8
+#EXTINF:0 tvg-rec="0",Прямий HD
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1015/index.m3u8
+#EXTINF:0 tvg-rec="0",КРТ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1019/index.m3u8
+#EXTINF:0 tvg-rec="0",ЧП.INFO
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1020/index.m3u8
+#EXTINF:0 tvg-rec="0",Ескулап TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1022/index.m3u8
+#EXTINF:0 tvg-rec="0",УНІАН
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1023/index.m3u8
+#EXTINF:0 tvg-rec="0",UA|TV HD
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1024/index.m3u8
+#EXTINF:0 tvg-rec="0",36.6 TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1025/index.m3u8
+#EXTINF:0 tvg-rec="0",Milady Television
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1026/index.m3u8
+#EXTINF:0 tvg-rec="0",BOUTIQUE TV
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1029/index.m3u8
+#EXTINF:0 tvg-rec="0",NLO TV1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1032/index.m3u8
+#EXTINF:0 tvg-rec="0",7 канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1035/index.m3u8
+#EXTINF:0 tvg-rec="0",Music Box UA HD
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1036/index.m3u8
+#EXTINF:0 tvg-rec="0",ТРК Круг
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1040/index.m3u8
+#EXTINF:0 tvg-rec="0",ТРК Київ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1045/index.m3u8
+#EXTINF:0 tvg-rec="0",8 Канал UA
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1046/index.m3u8
+#EXTINF:0 tvg-rec="0",Чернiвцi
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1072/index.m3u8
+#EXTINF:0 tvg-rec="0",24 Канал HD
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1063/index.m3u8
+#EXTINF:0 tvg-rec="0",4 канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1039/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1109/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 2
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1110/index.m3u8
+#EXTINF:0 tvg-rec="0",UA:Донбас
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5038/index.m3u8
+#EXTINF:0 tvg-rec="0",Мариупольское ТВ
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5039/index.m3u8
+#EXTINF:0 tvg-rec="0",33 канал
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5040/index.m3u8
+#EXTINF:0 tvg-rec="0",Тернопіль 1
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5041/index.m3u8
+#EXTINF:0 tvg-rec="0",Перший Західний
+#EXTGRP:українські
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5042/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 24
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1061/index.m3u8
+#EXTINF:0 tvg-rec="1",БелРос
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/835/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 1
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2170/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 2
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2173/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 3
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2174/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 1 HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2178/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 2 HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2179/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 3 HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2180/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 5 HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2177/index.m3u8
+#EXTINF:0 tvg-rec="0",ВТВ (СТС)
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2176/index.m3u8
+#EXTINF:0 tvg-rec="0",СТВ
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2172/index.m3u8
+#EXTINF:0 tvg-rec="0",СТВ HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2184/index.m3u8
+#EXTINF:0 tvg-rec="0",ОНТ
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2171/index.m3u8
+#EXTINF:0 tvg-rec="0",ОНТ HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2182/index.m3u8
+#EXTINF:0 tvg-rec="0",РТР
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2183/index.m3u8
+#EXTINF:0 tvg-rec="0",РТР HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2181/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinema HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2185/index.m3u8
+#EXTINF:0 tvg-rec="0",8 Канал HD
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2186/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 5 BY
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5060/index.m3u8
+#EXTINF:0 tvg-rec="0",ОНТ BY
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5061/index.m3u8
+#EXTINF:0 tvg-rec="0",БелРос BY
+#EXTGRP:беларускія
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5062/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2455/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal 3
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2453/index.m3u8
+#EXTINF:0 tvg-rec="0",Publika TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2450/index.m3u8
+#EXTINF:0 tvg-rec="0",Moldova 1 HD MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2444/index.m3u8
+#EXTINF:0 tvg-rec="0",Moldova 2
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2445/index.m3u8
+#EXTINF:0 tvg-rec="0",RTR Moldova
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2447/index.m3u8
+#EXTINF:0 tvg-rec="0",N4 MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2460/index.m3u8
+#EXTINF:0 tvg-rec="0",Orhei TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2448/index.m3u8
+#EXTINF:0 tvg-rec="0",PRIMUL
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2449/index.m3u8
+#EXTINF:0 tvg-rec="0",Accent TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2459/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV Moldova
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2461/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС Mega MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2462/index.m3u8
+#EXTINF:0 tvg-rec="0",TVR1 HD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5026/index.m3u8
+#EXTINF:0 tvg-rec="0",MBC MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2465/index.m3u8
+#EXTINF:0 tvg-rec="0",GOLD TV MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2472/index.m3u8
+#EXTINF:0 tvg-rec="0",Noroc TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2473/index.m3u8
+#EXTINF:0 tvg-rec="0",AXIAL TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2467/index.m3u8
+#EXTINF:0 tvg-rec="0",Jurnal TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2446/index.m3u8
+#EXTINF:0 tvg-rec="0",Prime 1 MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2451/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal 2 MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2452/index.m3u8
+#EXTINF:0 tvg-rec="0",TV8 MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2454/index.m3u8
+#EXTINF:0 tvg-rec="0",ProTV Chisinau
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2456/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2457/index.m3u8
+#EXTINF:0 tvg-rec="0",TVC 21 MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2458/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ Exclusiv TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2463/index.m3u8
+#EXTINF:0 tvg-rec="0",TVR 1 MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2464/index.m3u8
+#EXTINF:0 tvg-rec="0",10 TV MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2466/index.m3u8
+#EXTINF:0 tvg-rec="0",Minimax MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2468/index.m3u8
+#EXTINF:0 tvg-rec="0",Gurinel TV
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2469/index.m3u8
+#EXTINF:0 tvg-rec="0",Zona M MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2470/index.m3u8
+#EXTINF:0 tvg-rec="0",UTV MD
+#EXTGRP:moldoveneasca
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2471/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2402/index.m3u8
+#EXTINF:0 tvg-rec="0",КХЛ FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2403/index.m3u8
+#EXTINF:0 tvg-rec="0",РБК FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2404/index.m3u8
+#EXTINF:0 tvg-rec="0",Моторспорт ТВ FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2405/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Игра FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2406/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 1 FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2407/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 3 FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2408/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2409/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2410/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2411/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion One FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2412/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2413/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Премьер FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2414/index.m3u8
+#EXTINF:0 tvg-rec="0",Nat Geo Wild FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2415/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2416/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2417/index.m3u8
+#EXTINF:0 tvg-rec="0",ЕДА Премиум FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2418/index.m3u8
+#EXTINF:0 tvg-rec="0",Food Network FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2419/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 2 FHD
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2420/index.m3u8
+#EXTINF:0 tvg-rec="0",DTX HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5064/index.m3u8
+#EXTINF:0 tvg-rec="0",VIASAT Sport HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport Gold HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5066/index.m3u8
+#EXTINF:0 tvg-rec="0",UFC HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5067/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports Ukraine HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5068/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5069/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5070/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч Футбол 3 HD 50 orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5071/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! Футбол 1 HD 50 orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5072/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 1 HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5073/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 2 HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5074/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5075/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 North-East HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5076/index.m3u8
+#EXTINF:0 tvg-rec="0",Xsport HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5077/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Fotboll HD SK orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5078/index.m3u8
+#EXTINF:0 tvg-rec="0",VIP Premiere orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5079/index.m3u8
+#EXTINF:0 tvg-rec="0",VIP Comedy orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5080/index.m3u8
+#EXTINF:0 tvg-rec="0",VIP Megahit orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5081/index.m3u8
+#EXTINF:0 tvg-rec="0",Дом кино Премиум HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5082/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 3 HD orig
+#EXTGRP:HD Orig
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/5083/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Select UK
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2474/index.m3u8
+#EXTINF:0 tvg-rec="0",Sony Movies UK
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2476/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Action HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2482/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Comedy DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2483/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2484/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Cinemagic HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2485/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Hits HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2486/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Atlantic HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2488/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Family HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2489/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Nostalgie DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2490/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Krimi DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2491/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Comic-Helden DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2493/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Arts HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2494/index.m3u8
+#EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
+#EXTGRP:кино
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2566/index.m3u8
+#EXTINF:0 tvg-rec="1",Europa Plus TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/115/index.m3u8
+#EXTINF:0 tvg-rec="1",МУЗ-ТВ
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/116/index.m3u8
+#EXTINF:0 tvg-rec="1",BRIDGE TV Русский Хит
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/120/index.m3u8
+#EXTINF:0 tvg-rec="1",Bridge TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/122/index.m3u8
+#EXTINF:0 tvg-rec="1",MTV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/142/index.m3u8
+#EXTINF:0 tvg-rec="1",MTV Hits
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/153/index.m3u8
+#EXTINF:0 tvg-rec="1",Музыка
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/155/index.m3u8
+#EXTINF:0 tvg-rec="1",Mezzo Live HD
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/208/index.m3u8
+#EXTINF:0 tvg-rec="1",VH1 European
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/536/index.m3u8
+#EXTINF:0 tvg-rec="1",MTV Dance
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/558/index.m3u8
+#EXTINF:0 tvg-rec="1",Mezzo
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/707/index.m3u8
+#EXTINF:0 tvg-rec="1",ТНТ MUSIC
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/710/index.m3u8
+#EXTINF:0 tvg-rec="1",BRIDGE TV DANCE
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/711/index.m3u8
+#EXTINF:0 tvg-rec="1",Наше ТВ
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/721/index.m3u8
+#EXTINF:0 tvg-rec="1",VH1 Classic
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/724/index.m3u8
+#EXTINF:0 tvg-rec="0",Vostok TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1054/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV Rocks
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/1038/index.m3u8
+#EXTINF:0 tvg-rec="1",MCM Top Russia
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/836/index.m3u8
+#EXTINF:0 tvg-rec="1",RU.TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/838/index.m3u8
+#EXTINF:0 tvg-rec="1",Шансон ТВ
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/859/index.m3u8
+#EXTINF:0 tvg-rec="0",VIVA TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/301/index.m3u8
+#EXTINF:0 tvg-rec="0", Ля-минор ТВ
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2043/index.m3u8
+#EXTINF:0 tvg-rec="0",Russian Music Box
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2048/index.m3u8
+#EXTINF:0 tvg-rec="0",Курай TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2061/index.m3u8
+#EXTINF:0 tvg-rec="0",о2тв
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2068/index.m3u8
+#EXTINF:0 tvg-rec="0",МузСоюз
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2137/index.m3u8
+#EXTINF:0 tvg-rec="0",Жар Птица
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2142/index.m3u8
+#EXTINF:0 tvg-rec="0",AIVA TV
+#EXTGRP:музыка
+http://hogq2y30.megatv.fun/iptv/DVCDY8ZWCVS3T2/2156/index.m3u8
+
 #EXTINF:40,Первый канал (+2)
 http://85.143.191.135/42/f0541f135f40e645d4f245e93318d3190fe3d7d2/40/stream.m3u8
 #EXTINF:287,Первый канал (+6)
@@ -240,1963 +2182,6 @@ http://85.143.191.135/42/f0541f135f40e645d4f245e93318d3190fe3d7d2/22/stream.m3u8
 #EXTINF:164,НТВ Сериал
 http://85.143.191.135/42/f0541f135f40e645d4f245e93318d3190fe3d7d2/164/stream.m3u8
 
-
-#EXTINF:0 tvg-rec="1",Первый канал
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/127/index.m3u
-#EXTINF:0 tvg-rec="1",Первый канал (+2)
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/714/index.m3u
-#EXTINF:0 tvg-rec="1",Первый HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/204/index.m3u
-#EXTINF:0 tvg-rec="1",Россия 1
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/504/index.m3u
-#EXTINF:0 tvg-rec="1",Россия HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/205/index.m3u
-#EXTINF:0 tvg-rec="0",РТР
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2183/index.m3u
-#EXTINF:0 tvg-rec="0",RTR Moldova
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5019/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/501/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ (+2)
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/713/index.m3u
-#EXTINF:0 tvg-rec="1",СТС
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/506/index.m3u
-#EXTINF:0 tvg-rec="1",ТВ3
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/508/index.m3u
-#EXTINF:0 tvg-rec="0",ТВ3 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5033/index.m3u
-#EXTINF:0 tvg-rec="1",РЕН ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/128/index.m3u
-#EXTINF:0 tvg-rec="1",РЕН ТВ (+2)
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/747/index.m3u
-#EXTINF:0 tvg-rec="0",Рен ТВ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2024/index.m3u
-#EXTINF:0 tvg-rec="1",КИНО ТВ
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/732/index.m3u
-#EXTINF:0 tvg-rec="0",КИНО ТВ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2097/index.m3u
-#EXTINF:0 tvg-rec="1",Hollywood
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/557/index.m3u
-#EXTINF:0 tvg-rec="1",Hollywood HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/209/index.m3u
-#EXTINF:0 tvg-rec="1",Домашний
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/514/index.m3u
-#EXTINF:0 tvg-rec="0",Кинокомедия HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2132/index.m3u
-#EXTINF:0 tvg-rec="1",Комедийное HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/912/index.m3u
-#EXTINF:0 tvg-rec="1",Русская Комедия
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/733/index.m3u
-#EXTINF:0 tvg-rec="1",Че
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/513/index.m3u
-#EXTINF:0 tvg-rec="1",Звезда
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/544/index.m3u
-#EXTINF:0 tvg-rec="1",Звезда (+2)
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/739/index.m3u
-#EXTINF:0 tvg-rec="0",Победа
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2003/index.m3u
-#EXTINF:0 tvg-rec="0",Победа HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5052/index.m3u
-#EXTINF:0 tvg-rec="0",Красная линия
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2147/index.m3u
-#EXTINF:0 tvg-rec="0",День Победы HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5054/index.m3u
-#EXTINF:0 tvg-rec="0",Романтичное HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5053/index.m3u
-#EXTINF:0 tvg-rec="0",Paramount Channel HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5063/index.m3u
-#EXTINF:0 tvg-rec="0",Пятница! HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5031/index.m3u
-#EXTINF:0 tvg-rec="1",Пятый канал
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/112/index.m3u
-#EXTINF:0 tvg-rec="1",Мир
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/113/index.m3u
-#EXTINF:0 tvg-rec="1",ТНТ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/502/index.m3u
-#EXTINF:0 tvg-rec="1",VIP Premiere
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/202/index.m3u
-#EXTINF:0 tvg-rec="1",VIP Comedy
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/200/index.m3u
-#EXTINF:0 tvg-rec="1",VIP Megahit
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/201/index.m3u
-#EXTINF:0 tvg-rec="1",TV 1000
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/132/index.m3u
-#EXTINF:0 tvg-rec="1",TV 1000 Action
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/131/index.m3u
-#EXTINF:0 tvg-rec="0",TV1000 World Kino
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1065/index.m3u
-#EXTINF:0 tvg-rec="1",TV 1000 Русское кино
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/101/index.m3u
-#EXTINF:0 tvg-rec="1",Супер
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/826/index.m3u
-#EXTINF:0 tvg-rec="1",Viasat Nature/History HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/203/index.m3u
-#EXTINF:0 tvg-rec="1",Пятница!
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/503/index.m3u
-#EXTINF:0 tvg-rec="1",ТВЦ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/520/index.m3u
-#EXTINF:0 tvg-rec="1",Телеканал Да Винчи
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/537/index.m3u
-#EXTINF:0 tvg-rec="1",Ю ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/534/index.m3u
-#EXTINF:0 tvg-rec="1",КВН ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/546/index.m3u
-#EXTINF:0 tvg-rec="1",Санкт-Петербург
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/715/index.m3u
-#EXTINF:0 tvg-rec="1",Пятый Канал (+2)
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/746/index.m3u
-#EXTINF:0 tvg-rec="0",Moldova 1 HD MD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5007/index.m3u
-#EXTINF:0 tvg-rec="0",Jurnal TV HD MD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5008/index.m3u
-#EXTINF:0 tvg-rec="0",PRIMUL
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5022/index.m3u
-#EXTINF:0 tvg-rec="0",Publika TV
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2251/index.m3u
-#EXTINF:0 tvg-rec="0",Moldova1
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5016/index.m3u
-#EXTINF:0 tvg-rec="0",Moldova2
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5017/index.m3u
-#EXTINF:0 tvg-rec="0",N4
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5020/index.m3u
-#EXTINF:0 tvg-rec="0",Orhei TV
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5021/index.m3u
-#EXTINF:0 tvg-rec="0",Accent TV
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5023/index.m3u
-#EXTINF:0 tvg-rec="0",ITV Moldova
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5024/index.m3u
-#EXTINF:0 tvg-rec="0",СТС Mega MD
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5025/index.m3u
-#EXTINF:0 tvg-rec="1",Ностальгия
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/102/index.m3u
-#EXTINF:0 tvg-rec="1",СТС Love
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/103/index.m3u
-#EXTINF:0 tvg-rec="1",Sony Sci-Fi
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/110/index.m3u
-#EXTINF:0 tvg-rec="1",Amedia 2
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/510/index.m3u
-#EXTINF:0 tvg-rec="1",TV XXI
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/525/index.m3u
-#EXTINF:0 tvg-rec="1",Русский Иллюзион
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/547/index.m3u
-#EXTINF:0 tvg-rec="1",Еврокино
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/549/index.m3u
-#EXTINF:0 tvg-rec="1",Fox Russia
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/550/index.m3u
-#EXTINF:0 tvg-rec="1",Fox Life
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/553/index.m3u
-#EXTINF:0 tvg-rec="1",Дом Кино
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/154/index.m3u
-#EXTINF:0 tvg-rec="1",Amedia 1
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/554/index.m3u
-#EXTINF:0 tvg-rec="1",Amedia Premium HD (SD)
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/555/index.m3u
-#EXTINF:0 tvg-rec="1",AMEDIA HIT
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/556/index.m3u
-#EXTINF:0 tvg-rec="1",Sony Entertainment Television
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/559/index.m3u
-#EXTINF:0 tvg-rec="1",2X2
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/702/index.m3u
-#EXTINF:0 tvg-rec="1",Sony Turbo
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/708/index.m3u
-#EXTINF:0 tvg-rec="1",Русский бестселлер
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/905/index.m3u
-#EXTINF:0 tvg-rec="1",Русский роман
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/906/index.m3u
-#EXTINF:0 tvg-rec="1",Русский детектив
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/907/index.m3u
-#EXTINF:0 tvg-rec="1",Любимое Кино
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/722/index.m3u
-#EXTINF:0 tvg-rec="1",FAN
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/734/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ‑ХИТ
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/741/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ Сериал
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/744/index.m3u
-#EXTINF:0 tvg-rec="1",НСТ
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/726/index.m3u
-#EXTINF:0 tvg-rec="1",Bollywood
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/719/index.m3u
-#EXTINF:0 tvg-rec="0",ZEE TV
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1001/index.m3u
-#EXTINF:0 tvg-rec="0",Filmbox Arthouse
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1071/index.m3u
-#EXTINF:0 tvg-rec="0",Дорама
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1066/index.m3u
-#EXTINF:0 tvg-rec="1",Мир Сериала
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/856/index.m3u
-#EXTINF:0 tvg-rec="0",Ретро
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2018/index.m3u
-#EXTINF:0 tvg-rec="0",Иллюзион +
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2038/index.m3u
-#EXTINF:0 tvg-rec="0",Феникс плюс Кино
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2039/index.m3u
-#EXTINF:0 tvg-rec="0",Paramount Channel
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2055/index.m3u
-#EXTINF:0 tvg-rec="0",Sony Channel HD
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2062/index.m3u
-#EXTINF:0 tvg-rec="0",Киносат
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2121/index.m3u
-#EXTINF:0 tvg-rec="0",Cinéma
-#EXTGRP:кино
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5051/index.m3u
-#EXTINF:0 tvg-rec="1",РБК-ТВ
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/106/index.m3u
-#EXTINF:0 tvg-rec="1",Россия-24
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/507/index.m3u
-#EXTINF:0 tvg-rec="1",Москва 24
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/523/index.m3u
-#EXTINF:0 tvg-rec="1",BBC World News
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/545/index.m3u
-#EXTINF:0 tvg-rec="1",Мир 24
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/712/index.m3u
-#EXTINF:0 tvg-rec="0",Известия
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2008/index.m3u
-#EXTINF:0 tvg-rec="0",Дождь
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2030/index.m3u
-#EXTINF:0 tvg-rec="0",Центральное телевидение
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2064/index.m3u
-#EXTINF:0 tvg-rec="0",Вместе-РФ
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2073/index.m3u
-#EXTINF:0 tvg-rec="0",RTVi
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2086/index.m3u
-#EXTINF:0 tvg-rec="0",Про Бизнес
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5043/index.m3u
-#EXTINF:0 tvg-rec="1",История
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/111/index.m3u
-#EXTINF:0 tvg-rec="1",Моя Планета
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/117/index.m3u
-#EXTINF:0 tvg-rec="1",Outdoor Channel
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/119/index.m3u
-#EXTINF:0 tvg-rec="1",Совершенно секретно
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/121/index.m3u
-#EXTINF:0 tvg-rec="1",Россия-Культура
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/505/index.m3u
-#EXTINF:0 tvg-rec="1",Доктор
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/512/index.m3u
-#EXTINF:0 tvg-rec="1",Авто 24
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/538/index.m3u
-#EXTINF:0 tvg-rec="1",Nat Geo Wild
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/133/index.m3u
-#EXTINF:0 tvg-rec="1",nat geographic
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/134/index.m3u
-#EXTINF:0 tvg-rec="1",Discovery Science
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/136/index.m3u
-#EXTINF:0 tvg-rec="1",Animal Planet
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/137/index.m3u
-#EXTINF:0 tvg-rec="1",ID Xtra
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/139/index.m3u
-#EXTINF:0 tvg-rec="1",Discovery Channel
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/140/index.m3u
-#EXTINF:0 tvg-rec="1",Авто Плюс
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/151/index.m3u
-#EXTINF:0 tvg-rec="1",Время
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/552/index.m3u
-#EXTINF:0 tvg-rec="1",Домашние Животные
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/158/index.m3u
-#EXTINF:0 tvg-rec="1",Точка отрыва
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/159/index.m3u
-#EXTINF:0 tvg-rec="0",Надежда
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2153/index.m3u
-#EXTINF:0 tvg-rec="1",Viasat Nature
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/161/index.m3u
-#EXTINF:0 tvg-rec="1",Viasat History
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/162/index.m3u
-#EXTINF:0 tvg-rec="1",Viasat Explore
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/163/index.m3u
-#EXTINF:0 tvg-rec="1",Travel Channel
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/130/index.m3u
-#EXTINF:0 tvg-rec="1",Первый образовательный
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/701/index.m3u
-#EXTINF:0 tvg-rec="1",OCEAN-TV
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/703/index.m3u
-#EXTINF:0 tvg-rec="1",Бобёр
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/725/index.m3u
-#EXTINF:0 tvg-rec="1",Зоопарк
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/731/index.m3u
-#EXTINF:0 tvg-rec="1",E
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/736/index.m3u
-#EXTINF:0 tvg-rec="1",Морской
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/742/index.m3u
-#EXTINF:0 tvg-rec="1",Усадьба
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/532/index.m3u
-#EXTINF:0 tvg-rec="0",English Club TV
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/993/index.m3u
-#EXTINF:0 tvg-rec="0",H2
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1052/index.m3u
-#EXTINF:0 tvg-rec="0",Travel TV
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1044/index.m3u
-#EXTINF:0 tvg-rec="0",Classical Harmony
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1037/index.m3u
-#EXTINF:0 tvg-rec="0",Travel Channel EN
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1070/index.m3u
-#EXTINF:0 tvg-rec="1",History Russia
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/837/index.m3u
-#EXTINF:0 tvg-rec="1",RTG TV
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/841/index.m3u
-#EXTINF:0 tvg-rec="1",Первый Метео
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/845/index.m3u
-#EXTINF:0 tvg-rec="1",Дикий
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/847/index.m3u
-#EXTINF:0 tvg-rec="1",Spike Russia
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/849/index.m3u
-#EXTINF:0 tvg-rec="1",travel+adventure
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/850/index.m3u
-#EXTINF:0 tvg-rec="1",Поехали!
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/135/index.m3u
-#EXTINF:0 tvg-rec="0",Galaxy
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2010/index.m3u
-#EXTINF:0 tvg-rec="0",Охота и рыбалка
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2019/index.m3u
-#EXTINF:0 tvg-rec="0",ЕГЭ ТВ
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2020/index.m3u
-#EXTINF:0 tvg-rec="0",HD Media
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2037/index.m3u
-#EXTINF:0 tvg-rec="0",365 дней ТВ
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2040/index.m3u
-#EXTINF:0 tvg-rec="0",Телепутешествия
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2051/index.m3u
-#EXTINF:0 tvg-rec="0",Здоровье
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2054/index.m3u
-#EXTINF:0 tvg-rec="0",ТАЙНА
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2059/index.m3u
-#EXTINF:0 tvg-rec="0",Синергия ТВ
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2067/index.m3u
-#EXTINF:0 tvg-rec="0",Нано ТВ
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2081/index.m3u
-#EXTINF:0 tvg-rec="0",Investigation Discovery
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2085/index.m3u
-#EXTINF:0 tvg-rec="0",Оружие
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2087/index.m3u
-#EXTINF:0 tvg-rec="0",Зоо ТВ
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2100/index.m3u
-#EXTINF:0 tvg-rec="0",Живая Планета
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2101/index.m3u
-#EXTINF:0 tvg-rec="0",Наша тема
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2118/index.m3u
-#EXTINF:0 tvg-rec="0",Пёс и Ко
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2123/index.m3u
-#EXTINF:0 tvg-rec="0",Наука HD
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2155/index.m3u
-#EXTINF:0 tvg-rec="0",Sea TV
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5036/index.m3u
-#EXTINF:0 tvg-rec="0",Домашние животные
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5046/index.m3u
-#EXTINF:0 tvg-rec="0",Е
-#EXTGRP:познавательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5048/index.m3u
-#EXTINF:0 tvg-rec="1",Tiji TV
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/108/index.m3u
-#EXTINF:0 tvg-rec="1",Gulli
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/109/index.m3u
-#EXTINF:0 tvg-rec="1",Nick Jr
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/114/index.m3u
-#EXTINF:0 tvg-rec="1",Nickelodeon
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/541/index.m3u
-#EXTINF:0 tvg-rec="1",Disney
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/524/index.m3u
-#EXTINF:0 tvg-rec="1",Детский мир
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/543/index.m3u
-#EXTINF:0 tvg-rec="1",Jim Jam
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/138/index.m3u
-#EXTINF:0 tvg-rec="1",Cartoon Network
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/143/index.m3u
-#EXTINF:0 tvg-rec="1",Карусель
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/156/index.m3u
-#EXTINF:0 tvg-rec="1",Ani
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/129/index.m3u
-#EXTINF:0 tvg-rec="1",Мульт
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/909/index.m3u
-#EXTINF:0 tvg-rec="1",Тлум HD
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/240/index.m3u
-#EXTINF:0 tvg-rec="1",Boomerang
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/723/index.m3u
-#EXTINF:0 tvg-rec="1",О!
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/727/index.m3u
-#EXTINF:0 tvg-rec="1",Детский
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/730/index.m3u
-#EXTINF:0 tvg-rec="1",В гостях у сказки
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/737/index.m3u
-#EXTINF:0 tvg-rec="1",Карусель (+3)
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/740/index.m3u
-#EXTINF:0 tvg-rec="1",Мультимузыка
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/749/index.m3u
-#EXTINF:0 tvg-rec="1",Мультик HD
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/921/index.m3u
-#EXTINF:0 tvg-rec="0",Duck TV
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1031/index.m3u
-#EXTINF:0 tvg-rec="0",Baby TV
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2084/index.m3u
-#EXTINF:0 tvg-rec="0",Da Vinci Kids
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1033/index.m3u
-#EXTINF:0 tvg-rec="0",Da Vinci Kids PL
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1034/index.m3u
-#EXTINF:0 tvg-rec="0",Малыш
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1041/index.m3u
-#EXTINF:0 tvg-rec="0",Nickelodeon EN
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1069/index.m3u
-#EXTINF:0 tvg-rec="1",Радость моя
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/853/index.m3u
-#EXTINF:0 tvg-rec="0",Рыжий
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2052/index.m3u
-#EXTINF:0 tvg-rec="0",Капитан Фантастика
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2098/index.m3u
-#EXTINF:0 tvg-rec="0",UTv
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2103/index.m3u
-#EXTINF:0 tvg-rec="0",Тамыр
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2109/index.m3u
-#EXTINF:0 tvg-rec="0",Пингвин Лоло
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2152/index.m3u
-#EXTINF:0 tvg-rec="0",Смайлик ТВ
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2157/index.m3u
-#EXTINF:0 tvg-rec="0",Мультиландия
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5055/index.m3u
-#EXTINF:0 tvg-rec="0",Уникум
-#EXTGRP:детские
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5056/index.m3u
-#EXTINF:0 tvg-rec="1",ТНТ4
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/104/index.m3u
-#EXTINF:0 tvg-rec="1",ЖАРА
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/105/index.m3u
-#EXTINF:0 tvg-rec="1",Paramount Comedy Russia
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/157/index.m3u
-#EXTINF:0 tvg-rec="1",ТНТ (+2)
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/717/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ Стиль
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/745/index.m3u
-#EXTINF:0 tvg-rec="0",Fashion One
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1010/index.m3u
-#EXTINF:0 tvg-rec="0",World Fashion Channel
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1068/index.m3u
-#EXTINF:0 tvg-rec="0",Драйв
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2021/index.m3u
-#EXTINF:0 tvg-rec="0",Мужской
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2047/index.m3u
-#EXTINF:0 tvg-rec="0",Luxury World
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2072/index.m3u
-#EXTINF:0 tvg-rec="0",Мир Premium
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2105/index.m3u
-#EXTINF:0 tvg-rec="0",Luxury
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5032/index.m3u
-#EXTINF:0 tvg-rec="0",Анекдот ТВ
-#EXTGRP:развлекательные
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5034/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Футбол 3 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/206/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Арена HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/207/index.m3u
-#EXTINF:0 tvg-rec="1",RTG HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/210/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Футбол 2 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/211/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/212/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/213/index.m3u
-#EXTINF:0 tvg-rec="1",Конный Мир HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/214/index.m3u
-#EXTINF:0 tvg-rec="1",Телеканал КХЛ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/215/index.m3u
-#EXTINF:0 tvg-rec="1",Nat Geo Wild HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/216/index.m3u
-#EXTINF:0 tvg-rec="1",Mezzo Live HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/217/index.m3u
-#EXTINF:0 tvg-rec="1",Animal Planet HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/218/index.m3u
-#EXTINF:0 tvg-rec="1",Fox HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/219/index.m3u
-#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/220/index.m3u
-#EXTINF:0 tvg-rec="1",MTV Live HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/221/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Футбол 1 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/222/index.m3u
-#EXTINF:0 tvg-rec="1",Nickelodeon HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/223/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Игра HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/225/index.m3u
-#EXTINF:0 tvg-rec="1",HD Life
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/226/index.m3u
-#EXTINF:0 tvg-rec="1",Discovery Channel HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/227/index.m3u
-#EXTINF:0 tvg-rec="1",Eurosport 1 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/228/index.m3u
-#EXTINF:0 tvg-rec="1",Amedia Premium HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/229/index.m3u
-#EXTINF:0 tvg-rec="1",National Geographic HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/230/index.m3u
-#EXTINF:0 tvg-rec="1",History HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/231/index.m3u
-#EXTINF:0 tvg-rec="1",TLC HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/232/index.m3u
-#EXTINF:0 tvg-rec="1",Travel Channel HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/233/index.m3u
-#EXTINF:0 tvg-rec="1",Eurosport 2 North-East HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/234/index.m3u
-#EXTINF:0 tvg-rec="1",Остросюжетное HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/904/index.m3u
-#EXTINF:0 tvg-rec="1",Дом Кино Премиум HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/911/index.m3u
-#EXTINF:0 tvg-rec="0",Шокирующее
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/913/index.m3u
-#EXTINF:0 tvg-rec="1",Наш Кинороман HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/914/index.m3u
-#EXTINF:0 tvg-rec="1",Наше крутое HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/915/index.m3u
-#EXTINF:0 tvg-rec="1",Охотник и рыболов HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/917/index.m3u
-#EXTINF:0 tvg-rec="1",ЕДА Премиум
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/918/index.m3u
-#EXTINF:0 tvg-rec="1",Мир HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/235/index.m3u
-#EXTINF:0 tvg-rec="1",BRIDGE HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/236/index.m3u
-#EXTINF:0 tvg-rec="1",ТНТ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/237/index.m3u
-#EXTINF:0 tvg-rec="1",Bollywood HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/239/index.m3u
-#EXTINF:0 tvg-rec="0",Теледом
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/954/index.m3u
-#EXTINF:0 tvg-rec="0",4ever Music
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/970/index.m3u
-#EXTINF:0 tvg-rec="0",Настоящее время
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/986/index.m3u
-#EXTINF:0 tvg-rec="0",Travel HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1043/index.m3u
-#EXTINF:0 tvg-rec="0",XSPORT HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/996/index.m3u
-#EXTINF:0 tvg-rec="0",FAST&FUN BOX HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1018/index.m3u
-#EXTINF:0 tvg-rec="0",Epic Drama
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1048/index.m3u
-#EXTINF:0 tvg-rec="1",Эврика HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/908/index.m3u
-#EXTINF:0 tvg-rec="1",Приключения HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/920/index.m3u
-#EXTINF:0 tvg-rec="0",DocuBox HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/968/index.m3u
-#EXTINF:0 tvg-rec="0",Setanta Sports 2
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/270/index.m3u
-#EXTINF:0 tvg-rec="0",Setanta Sports HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/271/index.m3u
-#EXTINF:0 tvg-rec="0",Setanta Sports Ukraine HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/272/index.m3u
-#EXTINF:0 tvg-rec="0",UFC ТВ
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2000/index.m3u
-#EXTINF:0 tvg-rec="0",СТС Kids HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2001/index.m3u
-#EXTINF:0 tvg-rec="0",Eurosport Gold HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2002/index.m3u
-#EXTINF:0 tvg-rec="0",Дикая охота HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2004/index.m3u
-#EXTINF:0 tvg-rec="0",Дикая рыбалка HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2005/index.m3u
-#EXTINF:0 tvg-rec="0",DTX HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2006/index.m3u
-#EXTINF:0 tvg-rec="0",Viasat Sport HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2007/index.m3u
-#EXTINF:0 tvg-rec="0",Большая Азия HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2009/index.m3u
-#EXTINF:0 tvg-rec="0",Cartoon Network HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2011/index.m3u
-#EXTINF:0 tvg-rec="0",Fine living HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2027/index.m3u
-#EXTINF:0 tvg-rec="0",C-Music HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2028/index.m3u
-#EXTINF:0 tvg-rec="0",H2 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2033/index.m3u
-#EXTINF:0 tvg-rec="0",Fashion One HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2044/index.m3u
-#EXTINF:0 tvg-rec="0",Fashion TV HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2045/index.m3u
-#EXTINF:0 tvg-rec="0",A2 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2046/index.m3u
-#EXTINF:0 tvg-rec="0",Киноужас HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2056/index.m3u
-#EXTINF:0 tvg-rec="0",Discovery HD Showcase
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2058/index.m3u
-#EXTINF:0 tvg-rec="0",360° HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2065/index.m3u
-#EXTINF:0 tvg-rec="0",Живая природа HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2074/index.m3u
-#EXTINF:0 tvg-rec="0",Русский роман HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2076/index.m3u
-#EXTINF:0 tvg-rec="0",Russian Extreme HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2077/index.m3u
-#EXTINF:0 tvg-rec="0",В мире животных HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2089/index.m3u
-#EXTINF:0 tvg-rec="0",Планета HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2090/index.m3u
-#EXTINF:0 tvg-rec="0",Anyday HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2091/index.m3u
-#EXTINF:0 tvg-rec="0",Glazella HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2092/index.m3u
-#EXTINF:0 tvg-rec="0",Mute HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2093/index.m3u
-#EXTINF:0 tvg-rec="0",Anyday HD 3D
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2094/index.m3u
-#EXTINF:0 tvg-rec="0",Glazella HD 3D
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2095/index.m3u
-#EXTINF:0 tvg-rec="0",Mute HD 3D
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2096/index.m3u
-#EXTINF:0 tvg-rec="0",ID Xtra HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2102/index.m3u
-#EXTINF:0 tvg-rec="0",Глазами туриста HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2104/index.m3u
-#EXTINF:0 tvg-rec="0",Наше любимое HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2106/index.m3u
-#EXTINF:0 tvg-rec="0",Мир 24 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2107/index.m3u
-#EXTINF:0 tvg-rec="0",Русский иллюзион HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2114/index.m3u
-#EXTINF:0 tvg-rec="0",БСТ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2115/index.m3u
-#EXTINF:0 tvg-rec="0",Загородный int HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2124/index.m3u
-#EXTINF:0 tvg-rec="0",Кухня ТВ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2127/index.m3u
-#EXTINF:0 tvg-rec="0",Точка отрыва HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2128/index.m3u
-#EXTINF:0 tvg-rec="0",Жара HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2129/index.m3u
-#EXTINF:0 tvg-rec="0",MTV Россия HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2130/index.m3u
-#EXTINF:0 tvg-rec="0",Дорама HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2131/index.m3u
-#EXTINF:0 tvg-rec="0",Наше новое кино HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2133/index.m3u
-#EXTINF:0 tvg-rec="0",Нано ТВ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2135/index.m3u
-#EXTINF:0 tvg-rec="0",о2тв HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2141/index.m3u
-#EXTINF:0 tvg-rec="0",Моторспорт ТВ HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2146/index.m3u
-#EXTINF:0 tvg-rec="0",Открытый HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2148/index.m3u
-#EXTINF:0 tvg-rec="0",Диалоги о рыбалке HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2394/index.m3u
-#EXTINF:0 tvg-rec="0",Clubbing TV HD RU
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2395/index.m3u
-#EXTINF:0 tvg-rec="0",Fuel TV HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2396/index.m3u
-#EXTINF:0 tvg-rec="0",Setanta Qazaqstan HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2399/index.m3u
-#EXTINF:0 tvg-rec="0",Губерния 33 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2400/index.m3u
-#EXTINF:0 tvg-rec="0",Футбол 3 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/290/index.m3u
-#EXTINF:0 tvg-rec="0",Е HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5035/index.m3u
-#EXTINF:0 tvg-rec="0",Арсенал HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5044/index.m3u
-#EXTINF:0 tvg-rec="0",Galaxy HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5045/index.m3u
-#EXTINF:0 tvg-rec="0",568 HD
-#EXTGRP:HD
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5049/index.m3u
-#EXTINF:0 tvg-rec="1",Мама
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/704/index.m3u
-#EXTINF:0 tvg-rec="1",ОТР
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/705/index.m3u
-#EXTINF:0 tvg-rec="1",CBS Reality
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/706/index.m3u
-#EXTINF:0 tvg-rec="1",ТВЦ (+2)
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/716/index.m3u
-#EXTINF:0 tvg-rec="1",NHK World TV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/729/index.m3u
-#EXTINF:0 tvg-rec="1",Fine Living
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/735/index.m3u
-#EXTINF:0 tvg-rec="1",ЖИВИ!
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/738/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ Право
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/743/index.m3u
-#EXTINF:0 tvg-rec="1",Сарафан
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/748/index.m3u
-#EXTINF:0 tvg-rec="0",CNL
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/955/index.m3u
-#EXTINF:0 tvg-rec="0",Al Jazeera
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/960/index.m3u
-#EXTINF:0 tvg-rec="0",TVP Info
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/961/index.m3u
-#EXTINF:0 tvg-rec="0",France 24
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/964/index.m3u
-#EXTINF:0 tvg-rec="0",AzTV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/966/index.m3u
-#EXTINF:0 tvg-rec="0",Life TV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/971/index.m3u
-#EXTINF:0 tvg-rec="0",ТБН
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/974/index.m3u
-#EXTINF:0 tvg-rec="0",СПАС
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/983/index.m3u
-#EXTINF:0 tvg-rec="0",WnessTV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/984/index.m3u
-#EXTINF:0 tvg-rec="0",Архыз 24
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1049/index.m3u
-#EXTINF:0 tvg-rec="0",CBC AZ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1050/index.m3u
-#EXTINF:0 tvg-rec="0",GUNAZ TV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1051/index.m3u
-#EXTINF:0 tvg-rec="0",Kabbala TV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1053/index.m3u
-#EXTINF:0 tvg-rec="0",8 канал
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1057/index.m3u
-#EXTINF:0 tvg-rec="0",Астрахань 24
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1059/index.m3u
-#EXTINF:0 tvg-rec="1",Shop & Show
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/827/index.m3u
-#EXTINF:0 tvg-rec="1",CCTV-4 Europe
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/829/index.m3u
-#EXTINF:0 tvg-rec="1",Башкирское спутниковое телевидение
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/832/index.m3u
-#EXTINF:0 tvg-rec="1",Первый Вегетарианский
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/833/index.m3u
-#EXTINF:0 tvg-rec="1",RT Documentary
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/839/index.m3u
-#EXTINF:0 tvg-rec="1",Просвещение
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/846/index.m3u
-#EXTINF:0 tvg-rec="1",Продвижение
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/851/index.m3u
-#EXTINF:0 tvg-rec="1",Загородная Жизнь
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/852/index.m3u
-#EXTINF:0 tvg-rec="1",Грозный
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/855/index.m3u
-#EXTINF:0 tvg-rec="1",Брянская Губерния
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/857/index.m3u
-#EXTINF:0 tvg-rec="1",Shopping Live
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/860/index.m3u
-#EXTINF:0 tvg-rec="1",Shop 24
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/861/index.m3u
-#EXTINF:0 tvg-rec="1",Твой дом
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/864/index.m3u
-#EXTINF:0 tvg-rec="1",Телекафе
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/865/index.m3u
-#EXTINF:0 tvg-rec="1",Кубань 24 ОРБИТА
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/866/index.m3u
-#EXTINF:0 tvg-rec="1",Губерния
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/867/index.m3u
-#EXTINF:0 tvg-rec="1",ACB TV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/868/index.m3u
-#EXTINF:0 tvg-rec="1",Москва Доверие
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/869/index.m3u
-#EXTINF:0 tvg-rec="0",Союз
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2016/index.m3u
-#EXTINF:0 tvg-rec="0",Здоровое ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2022/index.m3u
-#EXTINF:0 tvg-rec="0",Психология 21
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2025/index.m3u
-#EXTINF:0 tvg-rec="0",Вопросы и ответы
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2026/index.m3u
-#EXTINF:0 tvg-rec="0",ТДК
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2034/index.m3u
-#EXTINF:0 tvg-rec="0",Globalstar TV
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2035/index.m3u
-#EXTINF:0 tvg-rec="0",Юрган
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2036/index.m3u
-#EXTINF:0 tvg-rec="0",Успех
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2041/index.m3u
-#EXTINF:0 tvg-rec="0",Кто есть кто
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2042/index.m3u
-#EXTINF:0 tvg-rec="0",Точка ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2053/index.m3u
-#EXTINF:0 tvg-rec="0",Хамдан
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2066/index.m3u
-#EXTINF:0 tvg-rec="0",Раз ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2069/index.m3u
-#EXTINF:0 tvg-rec="0",Arirang
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2071/index.m3u
-#EXTINF:0 tvg-rec="0",Открытый мир
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2078/index.m3u
-#EXTINF:0 tvg-rec="0",Загородный
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2099/index.m3u
-#EXTINF:0 tvg-rec="0",БСТ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2108/index.m3u
-#EXTINF:0 tvg-rec="0",ЛДПР ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2110/index.m3u
-#EXTINF:0 tvg-rec="0",Связист ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2111/index.m3u
-#EXTINF:0 tvg-rec="0",Мир Увлечений
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2112/index.m3u
-#EXTINF:0 tvg-rec="0",Волга
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2113/index.m3u
-#EXTINF:0 tvg-rec="0",Три ангела
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2116/index.m3u
-#EXTINF:0 tvg-rec="0",Ратник
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2119/index.m3u
-#EXTINF:0 tvg-rec="0",РЖД ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2120/index.m3u
-#EXTINF:0 tvg-rec="0",Первый Крымский
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2139/index.m3u
-#EXTINF:0 tvg-rec="0",ТОЛК
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2140/index.m3u
-#EXTINF:0 tvg-rec="0",КРЫМ 24
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2143/index.m3u
-#EXTINF:0 tvg-rec="0",Курай HD
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2144/index.m3u
-#EXTINF:0 tvg-rec="0",ТНОМЕР
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2149/index.m3u
-#EXTINF:0 tvg-rec="0",Хузур ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2150/index.m3u
-#EXTINF:0 tvg-rec="0",Эхо ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2151/index.m3u
-#EXTINF:0 tvg-rec="0",Калейдоскоп ТВ
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5037/index.m3u
-#EXTINF:0 tvg-rec="0",Т 24
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5047/index.m3u
-#EXTINF:0 tvg-rec="0",5 канал UA
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/945/index.m3u
-#EXTINF:0 tvg-rec="0",FilmBox
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/948/index.m3u
-#EXTINF:0 tvg-rec="0",24 Канал
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/951/index.m3u
-#EXTINF:0 tvg-rec="0",ATR
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/952/index.m3u
-#EXTINF:0 tvg-rec="0",Lale
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/953/index.m3u
-#EXTINF:0 tvg-rec="0",Надiя ТВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/956/index.m3u
-#EXTINF:0 tvg-rec="0",Перший Захiдний
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/957/index.m3u
-#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/958/index.m3u
-#EXTINF:0 tvg-rec="0",BBB TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/959/index.m3u
-#EXTINF:0 tvg-rec="0",Центральный канал
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/963/index.m3u
-#EXTINF:0 tvg-rec="0",Черноморская ТРК
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/965/index.m3u
-#EXTINF:0 tvg-rec="0",112 Україна
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/924/index.m3u
-#EXTINF:0 tvg-rec="0",EU Music
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/925/index.m3u
-#EXTINF:0 tvg-rec="0",NewsOne
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/926/index.m3u
-#EXTINF:0 tvg-rec="0",Eспресо TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/927/index.m3u
-#EXTINF:0 tvg-rec="0",Мега
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/929/index.m3u
-#EXTINF:0 tvg-rec="0",К2
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/930/index.m3u
-#EXTINF:0 tvg-rec="0",К1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/931/index.m3u
-#EXTINF:0 tvg-rec="0",Квартал ТВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/932/index.m3u
-#EXTINF:0 tvg-rec="0",Enter-фільм
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/933/index.m3u
-#EXTINF:0 tvg-rec="0",Новий Канал
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/935/index.m3u
-#EXTINF:0 tvg-rec="0",НТН
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/936/index.m3u
-#EXTINF:0 tvg-rec="0",Інтер
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/937/index.m3u
-#EXTINF:0 tvg-rec="0",Пiксель ТВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/938/index.m3u
-#EXTINF:0 tvg-rec="0",Первый городской (Кривой Рог)
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/939/index.m3u
-#EXTINF:0 tvg-rec="0",ID Fashion
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/940/index.m3u
-#EXTINF:0 tvg-rec="0",Культура
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/941/index.m3u
-#EXTINF:0 tvg-rec="0",Телевсесвiт
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/942/index.m3u
-#EXTINF:0 tvg-rec="0",Медiаiнформ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/943/index.m3u
-#EXTINF:0 tvg-rec="0",Skrypin.UA
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/944/index.m3u
-#EXTINF:0 tvg-rec="0",ТРК Алекс
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/967/index.m3u
-#EXTINF:0 tvg-rec="0",Глас
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/972/index.m3u
-#EXTINF:0 tvg-rec="0",Правда Тут
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/973/index.m3u
-#EXTINF:0 tvg-rec="0",Тернопіль 1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/975/index.m3u
-#EXTINF:0 tvg-rec="0",Рада
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/976/index.m3u
-#EXTINF:0 tvg-rec="0",MAXXI TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/977/index.m3u
-#EXTINF:0 tvg-rec="0",News Network
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/978/index.m3u
-#EXTINF:0 tvg-rec="0",Южная волна
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/979/index.m3u
-#EXTINF:0 tvg-rec="0",Первый городской
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/981/index.m3u
-#EXTINF:0 tvg-rec="0",СК1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/982/index.m3u
-#EXTINF:0 tvg-rec="0",Перший дiловий
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/985/index.m3u
-#EXTINF:0 tvg-rec="0",1+1 International
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/987/index.m3u
-#EXTINF:0 tvg-rec="0",Громадське
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/988/index.m3u
-#EXTINF:0 tvg-rec="0",BOLT
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/991/index.m3u
-#EXTINF:0 tvg-rec="0",Star Cinema
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/992/index.m3u
-#EXTINF:0 tvg-rec="0",Чернiвецький Промiнь
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1004/index.m3u
-#EXTINF:0 tvg-rec="0",UA:Перший
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1016/index.m3u
-#EXTINF:0 tvg-rec="0",UA:Крым
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1017/index.m3u
-#EXTINF:0 tvg-rec="0",MostVideo.TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1027/index.m3u
-#EXTINF:0 tvg-rec="0",OBOZ TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1028/index.m3u
-#EXTINF:0 tvg-rec="0",TV5
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1030/index.m3u
-#EXTINF:0 tvg-rec="0",Star Family
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1042/index.m3u
-#EXTINF:0 tvg-rec="0",Интер+
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1047/index.m3u
-#EXTINF:0 tvg-rec="0",O-TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1055/index.m3u
-#EXTINF:0 tvg-rec="0",D1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1058/index.m3u
-#EXTINF:0 tvg-rec="0",1+1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/994/index.m3u
-#EXTINF:0 tvg-rec="0",2+2
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/995/index.m3u
-#EXTINF:0 tvg-rec="0",UKRAINE 1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/997/index.m3u
-#EXTINF:0 tvg-rec="0",Бiгудi
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/989/index.m3u
-#EXTINF:0 tvg-rec="0",НТА
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/990/index.m3u
-#EXTINF:0 tvg-rec="0",ТВА
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/998/index.m3u
-#EXTINF:0 tvg-rec="0",Вiнтаж ТВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/999/index.m3u
-#EXTINF:0 tvg-rec="0",ZOOM
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1000/index.m3u
-#EXTINF:0 tvg-rec="0",ПлюсПлюс
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1002/index.m3u
-#EXTINF:0 tvg-rec="0",Малятко ТВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1003/index.m3u
-#EXTINF:0 tvg-rec="0",Галичина
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1005/index.m3u
-#EXTINF:0 tvg-rec="0",Еко TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1006/index.m3u
-#EXTINF:0 tvg-rec="0",ZIK HD
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1007/index.m3u
-#EXTINF:0 tvg-rec="0",ZIK
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1008/index.m3u
-#EXTINF:0 tvg-rec="0",ТЕТ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1009/index.m3u
-#EXTINF:0 tvg-rec="0",Україна
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1011/index.m3u
-#EXTINF:0 tvg-rec="0",HDFASHION&LifeStyle
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1012/index.m3u
-#EXTINF:0 tvg-rec="0",Сонце
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1013/index.m3u
-#EXTINF:0 tvg-rec="0",NLO TV2
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1014/index.m3u
-#EXTINF:0 tvg-rec="0",Прямий HD
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1015/index.m3u
-#EXTINF:0 tvg-rec="0",КРТ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1019/index.m3u
-#EXTINF:0 tvg-rec="0",ЧП.INFO
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1020/index.m3u
-#EXTINF:0 tvg-rec="0",Ескулап TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1022/index.m3u
-#EXTINF:0 tvg-rec="0",УНІАН
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1023/index.m3u
-#EXTINF:0 tvg-rec="0",UA|TV HD
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1024/index.m3u
-#EXTINF:0 tvg-rec="0",36.6 TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1025/index.m3u
-#EXTINF:0 tvg-rec="0",Milady Television
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1026/index.m3u
-#EXTINF:0 tvg-rec="0",BOUTIQUE TV
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1029/index.m3u
-#EXTINF:0 tvg-rec="0",NLO TV1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1032/index.m3u
-#EXTINF:0 tvg-rec="0",7 канал
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1035/index.m3u
-#EXTINF:0 tvg-rec="0",Music Box UA HD
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1036/index.m3u
-#EXTINF:0 tvg-rec="0",ТРК Круг
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1040/index.m3u
-#EXTINF:0 tvg-rec="0",ТРК Київ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1045/index.m3u
-#EXTINF:0 tvg-rec="0",8 Канал UA
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1046/index.m3u
-#EXTINF:0 tvg-rec="0",Чернiвцi
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1072/index.m3u
-#EXTINF:0 tvg-rec="0",24 Канал HD
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1063/index.m3u
-#EXTINF:0 tvg-rec="0",4 канал
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1039/index.m3u
-#EXTINF:0 tvg-rec="0",Футбол 1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1109/index.m3u
-#EXTINF:0 tvg-rec="0",Футбол 2
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1110/index.m3u
-#EXTINF:0 tvg-rec="0",UA:Донбас
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5038/index.m3u
-#EXTINF:0 tvg-rec="0",Мариупольское ТВ
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5039/index.m3u
-#EXTINF:0 tvg-rec="0",33 канал
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5040/index.m3u
-#EXTINF:0 tvg-rec="0",Тернопіль 1
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5041/index.m3u
-#EXTINF:0 tvg-rec="0",Перший Західний
-#EXTGRP:українські
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5042/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 24
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1061/index.m3u
-#EXTINF:0 tvg-rec="1",БелРос
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/835/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 1
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2170/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 2
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2173/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 3
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2174/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 1 HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2178/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 2 HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2179/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 3 HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2180/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 5 HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2177/index.m3u
-#EXTINF:0 tvg-rec="0",ВТВ (СТС)
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2176/index.m3u
-#EXTINF:0 tvg-rec="0",СТВ
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2172/index.m3u
-#EXTINF:0 tvg-rec="0",СТВ HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2184/index.m3u
-#EXTINF:0 tvg-rec="0",ОНТ
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2171/index.m3u
-#EXTINF:0 tvg-rec="0",ОНТ HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2182/index.m3u
-#EXTINF:0 tvg-rec="0",РТР
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2183/index.m3u
-#EXTINF:0 tvg-rec="0",РТР HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2181/index.m3u
-#EXTINF:0 tvg-rec="0",Cinema HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2185/index.m3u
-#EXTINF:0 tvg-rec="0",8 Канал HD
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2186/index.m3u
-#EXTINF:0 tvg-rec="0",Беларусь 5 BY
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5060/index.m3u
-#EXTINF:0 tvg-rec="0",ОНТ BY
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5061/index.m3u
-#EXTINF:0 tvg-rec="0",БелРос BY
-#EXTGRP:беларускія
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5062/index.m3u
-#EXTINF:0 tvg-rec="1",ТНВ-Планета
-#EXTGRP:другие
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/515/index.m3u
-#EXTINF:0 tvg-rec="1",МАТЧ! СТРАНА
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/107/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! Планета
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/123/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Футбол 1
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/124/index.m3u
-#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/531/index.m3u
-#EXTINF:0 tvg-rec="1",KHL
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/519/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Футбол 3
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/522/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Арена
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/528/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Игра
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/529/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Футбол 2
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/530/index.m3u
-#EXTINF:0 tvg-rec="1",Матч ТВ
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/535/index.m3u
-#EXTINF:0 tvg-rec="1",Eurosport 1
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/141/index.m3u
-#EXTINF:0 tvg-rec="1",Extreme Sports
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/144/index.m3u
-#EXTINF:0 tvg-rec="1",Матч! Боец
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/150/index.m3u
-#EXTINF:0 tvg-rec="1",Viasat Sport
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/160/index.m3u
-#EXTINF:0 tvg-rec="1",M-1 Global TV
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/843/index.m3u
-#EXTINF:0 tvg-rec="1",Бокс ТВ
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/870/index.m3u
-#EXTINF:0 tvg-rec="0",Моторспорт ТВ
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2145/index.m3u
-#EXTINF:0 tvg-rec="0",СТАРТ
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2154/index.m3u
-#EXTINF:0 tvg-rec="0",Телеканал Футбол
-#EXTGRP:спорт
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5050/index.m3u
-#EXTINF:0 tvg-rec="1",Europa Plus TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/115/index.m3u
-#EXTINF:0 tvg-rec="1",МУЗ-ТВ
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/116/index.m3u
-#EXTINF:0 tvg-rec="1",BRIDGE TV Русский Хит
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/120/index.m3u
-#EXTINF:0 tvg-rec="1",Bridge TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/122/index.m3u
-#EXTINF:0 tvg-rec="1",MTV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/142/index.m3u
-#EXTINF:0 tvg-rec="1",MTV Hits
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/153/index.m3u
-#EXTINF:0 tvg-rec="1",Музыка
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/155/index.m3u
-#EXTINF:0 tvg-rec="1",Mezzo Live HD
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/208/index.m3u
-#EXTINF:0 tvg-rec="1",VH1 European
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/536/index.m3u
-#EXTINF:0 tvg-rec="1",MTV Dance
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/558/index.m3u
-#EXTINF:0 tvg-rec="1",Mezzo
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/707/index.m3u
-#EXTINF:0 tvg-rec="1",ТНТ MUSIC
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/710/index.m3u
-#EXTINF:0 tvg-rec="1",BRIDGE TV DANCE
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/711/index.m3u
-#EXTINF:0 tvg-rec="1",Наше ТВ
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/721/index.m3u
-#EXTINF:0 tvg-rec="1",VH1 Classic
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/724/index.m3u
-#EXTINF:0 tvg-rec="0",Vostok TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1054/index.m3u
-#EXTINF:0 tvg-rec="0",MTV Rocks
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1038/index.m3u
-#EXTINF:0 tvg-rec="1",MCM Top Russia
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/836/index.m3u
-#EXTINF:0 tvg-rec="1",RU.TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/838/index.m3u
-#EXTINF:0 tvg-rec="1",Шансон ТВ
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/859/index.m3u
-#EXTINF:0 tvg-rec="0",VIVA TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/301/index.m3u
-#EXTINF:0 tvg-rec="0", Ля-минор ТВ
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2043/index.m3u
-#EXTINF:0 tvg-rec="0",Russian Music Box
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2048/index.m3u
-#EXTINF:0 tvg-rec="0",Курай TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2061/index.m3u
-#EXTINF:0 tvg-rec="0",о2тв
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2068/index.m3u
-#EXTINF:0 tvg-rec="0",МузСоюз
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2137/index.m3u
-#EXTINF:0 tvg-rec="0",Жар Птица
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2142/index.m3u
-#EXTINF:0 tvg-rec="0",AIVA TV
-#EXTGRP:музыка
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2156/index.m3u
-#EXTINF:0 tvg-rec="1",SHOT TV
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/526/index.m3u
-#EXTINF:0 tvg-rec="1",Playboy
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/527/index.m3u
-#EXTINF:0 tvg-rec="1",Brazzers TV Europe
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/910/index.m3u
-#EXTINF:0 tvg-rec="1",Шалун
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/922/index.m3u
-#EXTINF:0 tvg-rec="1",Candy
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/923/index.m3u
-#EXTINF:0 tvg-rec="0",Penthouse TV
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1073/index.m3u
-#EXTINF:0 tvg-rec="0",Blue Hustler
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1064/index.m3u
-#EXTINF:0 tvg-rec="1",Barely legal
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/871/index.m3u
-#EXTINF:0 tvg-rec="1",BRAZZERS TV Europe 2
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/872/index.m3u
-#EXTINF:0 tvg-rec="1",Sexto Senso
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/875/index.m3u
-#EXTINF:0 tvg-rec="0",SCT
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/876/index.m3u
-#EXTINF:0 tvg-rec="1",PRIVE
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/877/index.m3u
-#EXTINF:0 tvg-rec="1",Passion XXX
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/878/index.m3u
-#EXTINF:0 tvg-rec="1",Redlight HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/242/index.m3u
-#EXTINF:0 tvg-rec="1",Private TV
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/243/index.m3u
-#EXTINF:0 tvg-rec="0",Hustler HD Europe
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/244/index.m3u
-#EXTINF:0 tvg-rec="1",Dorcel TV HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/245/index.m3u
-#EXTINF:0 tvg-rec="1",Pink'o TV
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/874/index.m3u
-#EXTINF:0 tvg-rec="0",Ночной клуб
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2017/index.m3u
-#EXTINF:0 tvg-rec="0",Нюарт TV
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2057/index.m3u
-#EXTINF:0 tvg-rec="0",FrenchLover
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2160/index.m3u
-#EXTINF:0 tvg-rec="0",O-la-la
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2161/index.m3u
-#EXTINF:0 tvg-rec="0",Vivid Red HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2162/index.m3u
-#EXTINF:0 tvg-rec="0",Exxxotica HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2397/index.m3u
-#EXTINF:0 tvg-rec="0",XXL
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5009/index.m3u
-#EXTINF:0 tvg-rec="0",Penthouse Passion
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5010/index.m3u
-#EXTINF:0 tvg-rec="0",Penthouse Gold HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5011/index.m3u
-#EXTINF:0 tvg-rec="0",Penthouse Quickies 1300k
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5012/index.m3u
-#EXTINF:0 tvg-rec="0",Penthouse Quickies HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5013/index.m3u
-#EXTINF:0 tvg-rec="0",Extasy 4K
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5014/index.m3u
-#EXTINF:0 tvg-rec="0",Eroxxx HD
-#EXTGRP:взрослые
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5015/index.m3u
-#EXTINF:0 tvg-rec="0",TV Varzish HD
-#EXTGRP:точик
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2230/index.m3u
-#EXTINF:0 tvg-rec="0",TV Sinamo
-#EXTGRP:точик
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2231/index.m3u
-#EXTINF:0 tvg-rec="0",Tojikistan HD
-#EXTGRP:точик
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2232/index.m3u
-#EXTINF:0 tvg-rec="0",Safina HD
-#EXTGRP:точик
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2233/index.m3u
-#EXTINF:0 tvg-rec="0",Bakhoristan HD
-#EXTGRP:точик
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2234/index.m3u
-#EXTINF:0 tvg-rec="0",Jahonnamo
-#EXTGRP:точик
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2235/index.m3u
-#EXTINF:0 tvg-rec="0",TVR1 HD
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5026/index.m3u
-#EXTINF:0 tvg-rec="0",MBC MD
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5027/index.m3u
-#EXTINF:0 tvg-rec="0",GOLD TV MD
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5028/index.m3u
-#EXTINF:0 tvg-rec="0",Noroc TV
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5029/index.m3u
-#EXTINF:0 tvg-rec="0",AXIAL TV
-#EXTGRP:moldovenească
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5030/index.m3u
-#EXTINF:0 tvg-rec="0",Первый FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2402/index.m3u
-#EXTINF:0 tvg-rec="0",КХЛ FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2403/index.m3u
-#EXTINF:0 tvg-rec="0",РБК FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2404/index.m3u
-#EXTINF:0 tvg-rec="0",Моторспорт ТВ FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2405/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! Игра FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2406/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! Футбол 1 FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2407/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! Футбол 3 FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2408/index.m3u
-#EXTINF:0 tvg-rec="0",Россия FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2409/index.m3u
-#EXTINF:0 tvg-rec="0",Премиальное FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2410/index.m3u
-#EXTINF:0 tvg-rec="0",Fashion TV FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2411/index.m3u
-#EXTINF:0 tvg-rec="0",Fashion One FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2412/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2413/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! Премьер FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2414/index.m3u
-#EXTINF:0 tvg-rec="0",Nat Geo Wild FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2415/index.m3u
-#EXTINF:0 tvg-rec="0",National Geographic FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2416/index.m3u
-#EXTINF:0 tvg-rec="0",ТНТ FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2417/index.m3u
-#EXTINF:0 tvg-rec="0",ЕДА Премиум FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2418/index.m3u
-#EXTINF:0 tvg-rec="0",Food Network FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2419/index.m3u
-#EXTINF:0 tvg-rec="0",Матч! Футбол 2 FHD
-#EXTGRP:Full HD (50fps)
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2420/index.m3u
-#EXTINF:0 tvg-rec="0",Ultra HD Cinema 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/4000/index.m3u
-#EXTINF:0 tvg-rec="0",TRT 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/4001/index.m3u
-#EXTINF:0 tvg-rec="0",Home 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/4002/index.m3u
-#EXTINF:0 tvg-rec="0",Наша Сибирь 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/4003/index.m3u
-#EXTINF:0 tvg-rec="0",Eurosport 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/4004/index.m3u
-#EXTINF:0 tvg-rec="0",FTV UHD
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/4005/index.m3u
-#EXTINF:0 tvg-rec="0",Insight UHD 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5000/index.m3u
-#EXTINF:0 tvg-rec="0",Love Nature 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5001/index.m3u
-#EXTINF:0 tvg-rec="0",MyZen TV 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5002/index.m3u
-#EXTINF:0 tvg-rec="0",Русский Экстрим UHD 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5003/index.m3u
-#EXTINF:0 tvg-rec="0",Кино UHD 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5004/index.m3u
-#EXTINF:0 tvg-rec="0",Сериал UHD 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5005/index.m3u
-#EXTINF:0 tvg-rec="0",Stingray Festival 4K
-#EXTGRP:4K
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5006/index.m3u
-#EXTINF:0 tvg-rec="0",FRANCE 24 En
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/947/index.m3u
-#EXTINF:0 tvg-rec="0",CNBC
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/962/index.m3u
-#EXTINF:0 tvg-rec="0",Euronews
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/969/index.m3u
-#EXTINF:0 tvg-rec="0",Deutsche Welle DE
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1021/index.m3u
-#EXTINF:0 tvg-rec="1",360°
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/825/index.m3u
-#EXTINF:0 tvg-rec="1",Euronews Россия
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/828/index.m3u
-#EXTINF:0 tvg-rec="1",CGTN
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/830/index.m3u
-#EXTINF:0 tvg-rec="1",CGTN русский
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/831/index.m3u
-#EXTINF:0 tvg-rec="1",RT News
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/840/index.m3u
-#EXTINF:0 tvg-rec="1",CNN International Europe
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/842/index.m3u
-#EXTINF:0 tvg-rec="1",RT Arabic
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/862/index.m3u
-#EXTINF:0 tvg-rec="1",RT Español
-#EXTGRP:новости
-http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/863/index.m3u
 #EXTINF:-1,Primul în Moldova
 http://212.0.215.115/PrimulHD/playlist.m3u8
 #EXTINF:0,Primul în Moldova
