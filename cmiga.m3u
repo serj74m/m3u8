@@ -1,11 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="3",Первый FHD
-#EXTGRP:Общие
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2402/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый HD
+#EXTINF:0 tvg-rec="7",Первый HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/204/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал
+#EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/127/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал (+2)
@@ -23,10 +20,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6050/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия FHD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2409/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия HD
+#EXTINF:0 tvg-rec="7",Россия HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/205/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия 1
+#EXTINF:0 tvg-rec="7",Россия 1
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/504/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +2
@@ -41,10 +38,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6038/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +8
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6051/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ HD
+#EXTINF:0 tvg-rec="7",НТВ HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/213/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ
+#EXTINF:0 tvg-rec="7",НТВ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/501/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ (+2)
@@ -53,13 +50,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/713/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6024/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ +6
+#EXTINF:0 tvg-rec="0",НТВ +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6039/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +8
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6053/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВЦ
+#EXTINF:0 tvg-rec="7",ТВЦ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/520/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВЦ (+2)
@@ -68,13 +65,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/716/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВЦ +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6027/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВЦ +6
+#EXTINF:0 tvg-rec="0",ТВЦ +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6041/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВЦ +8
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6056/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал
+#EXTINF:0 tvg-rec="7",Пятый канал
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/112/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый Канал (+2)
@@ -83,7 +80,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/746/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6025/index.m3u8
-#EXTINF:0 tvg-rec="0",5 канал +6
+#EXTINF:0 tvg-rec="0",5 канал +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6040/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +8
@@ -92,10 +89,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6054/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ FHD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2417/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ HD
+#EXTINF:0 tvg-rec="7",ТНТ HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/237/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ
+#EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/502/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ (+2)
@@ -104,10 +101,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/717/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6035/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ +6
+#EXTINF:0 tvg-rec="0",ТНТ +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6049/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС
+#EXTINF:0 tvg-rec="7",СТС
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/506/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС +2
@@ -116,13 +113,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6015/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6029/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС +6
+#EXTINF:0 tvg-rec="0",СТС +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6043/index.m3u8
-#EXTINF:0 tvg-rec="3",Рен ТВ HD
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2024/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ
+#EXTINF:0 tvg-rec="7",РЕН ТВ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/128/index.m3u8
 #EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
@@ -131,10 +128,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/747/index.m3u8
 #EXTINF:0 tvg-rec="0",Рен ТВ +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6028/index.m3u8
-#EXTINF:0 tvg-rec="0",Рен ТВ +6
+#EXTINF:0 tvg-rec="0",Рен ТВ +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6042/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир
+#EXTINF:0 tvg-rec="7",Мир
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/113/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир +2
@@ -143,13 +140,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6019/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6034/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир +6
+#EXTINF:0 tvg-rec="0",Мир +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6048/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Premium
-#EXTGRP:Общие
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2105/index.m3u8
-#EXTINF:0 tvg-rec="3",ОТР
+#EXTINF:0 tvg-rec="7",ОТР
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/705/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР +2
@@ -158,10 +152,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6014/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6026/index.m3u8
-#EXTINF:0 tvg-rec="0",ОТР +8
-#EXTGRP:Общие
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6055/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал Звезда
+#EXTINF:0 tvg-rec="7",Телеканал Звезда
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/544/index.m3u8
 #EXTINF:0 tvg-rec="3",Звезда (+2)
@@ -170,19 +161,19 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/739/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6033/index.m3u8
-#EXTINF:0 tvg-rec="0",Звезда +6
+#EXTINF:0 tvg-rec="0",Звезда +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6047/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Love
+#EXTINF:0 tvg-rec="7",СТС Love
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/103/index.m3u8
-#EXTINF:0 tvg-rec="3",Че
+#EXTINF:0 tvg-rec="7",Че
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/513/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВ3 HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5033/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ3
+#EXTINF:0 tvg-rec="7",ТВ3
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/508/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ3 +2
@@ -191,13 +182,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6017/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ3 +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6031/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВ3 +6
+#EXTINF:0 tvg-rec="0",ТВ3 +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6045/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятница! HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5031/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятница!
+#EXTINF:0 tvg-rec="7",Пятница!
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/503/index.m3u8
 #EXTINF:0 tvg-rec="0",Пятница +2
@@ -206,16 +197,16 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6018/index.m3u8
 #EXTINF:0 tvg-rec="0",Пятница +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6032/index.m3u8
-#EXTINF:0 tvg-rec="0",Пятница +6
+#EXTINF:0 tvg-rec="0",Пятница +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6046/index.m3u8
 #EXTINF:0 tvg-rec="3",RTVi
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2086/index.m3u8
-#EXTINF:0 tvg-rec="3",Супер
+#EXTINF:0 tvg-rec="7",Суббота
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/826/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашний
+#EXTINF:0 tvg-rec="7",Домашний
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/514/index.m3u8
 #EXTINF:0 tvg-rec="0",Домашний +2
@@ -224,7 +215,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6016/index.m3u8
 #EXTINF:0 tvg-rec="0",Домашний +4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6030/index.m3u8
-#EXTINF:0 tvg-rec="0",Домашний +6
+#EXTINF:0 tvg-rec="0",Домашний +7
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6044/index.m3u8
 #EXTINF:0 tvg-rec="3",Погляд HD
@@ -233,19 +224,19 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1057/index.m3u8
 #EXTINF:0 tvg-rec="3",Настоящее время
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/986/index.m3u8
-#EXTINF:0 tvg-rec="3",Ностальгия
+#EXTINF:0 tvg-rec="7",Ностальгия
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/102/index.m3u8
-#EXTINF:0 tvg-rec="3",Ю ТВ
+#EXTINF:0 tvg-rec="7",Ю ТВ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/534/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ4
+#EXTINF:0 tvg-rec="7",ТНТ4
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/104/index.m3u8
-#EXTINF:0 tvg-rec="3",КВН ТВ
+#EXTINF:0 tvg-rec="7",КВН ТВ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/546/index.m3u8
-#EXTINF:0 tvg-rec="3",Сарафан
+#EXTINF:0 tvg-rec="7",Сарафан
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/748/index.m3u8
 #EXTINF:0 tvg-rec="3",Точка ТВ
@@ -254,25 +245,25 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2053/index.m3u8
 #EXTINF:0 tvg-rec="3",360° HD
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2065/index.m3u8
-#EXTINF:0 tvg-rec="3",360°
+#EXTINF:0 tvg-rec="7",360°
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/825/index.m3u8
 #EXTINF:0 tvg-rec="3",СПАС
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/983/index.m3u8
-#EXTINF:0 tvg-rec="3",Союз
+#EXTINF:0 tvg-rec="7",Союз
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2016/index.m3u8
-#EXTINF:0 tvg-rec="3",Здоровое ТВ
+#EXTINF:0 tvg-rec="7",Здоровое ТВ
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2022/index.m3u8
-#EXTINF:0 tvg-rec="3",Психология 21
+#EXTINF:0 tvg-rec="7",Психология 21
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2025/index.m3u8
-#EXTINF:0 tvg-rec="3",Успех
+#EXTINF:0 tvg-rec="7",Успех
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2041/index.m3u8
-#EXTINF:0 tvg-rec="3",Кто есть кто
+#EXTINF:0 tvg-rec="7",Кто есть кто
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2042/index.m3u8
 #EXTINF:0 tvg-rec="3",Открытый мир
@@ -302,7 +293,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2150/index.m3u8
 #EXTINF:0 tvg-rec="3",Life TV
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/971/index.m3u8
-#EXTINF:0 tvg-rec="3",Дождь
+#EXTINF:0 tvg-rec="7",Дождь
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2030/index.m3u8
 #EXTINF:0 tvg-rec="3",ТБН
@@ -317,7 +308,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2073/index.m3u8
 #EXTINF:0 tvg-rec="3",Про Бизнес
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5043/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия-Культура
+#EXTINF:0 tvg-rec="7",Россия-Культура
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/505/index.m3u8
 #EXTINF:0 tvg-rec="3",Е
@@ -335,9 +326,6 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9028/index.m3u8
 #EXTINF:0 tvg-rec="3",Russia Today Doc HD orig
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9031/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир HD orig
-#EXTGRP:Общие
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9032/index.m3u8
 #EXTINF:0 tvg-rec="3",Телеканал 360 HD orig
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9036/index.m3u8
@@ -347,9 +335,6 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9095/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый канал orig
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9096/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Premium orig
-#EXTGRP:Общие
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9097/index.m3u8
 #EXTINF:0 tvg-rec="3",Телеканал Звезда orig
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9098/index.m3u8
@@ -365,7 +350,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9101/index.m3u8
 #EXTINF:0 tvg-rec="3",RTVi orig
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9102/index.m3u8
-#EXTINF:0 tvg-rec="3",Супер orig
+#EXTINF:0 tvg-rec="3",Суббота orig
 #EXTGRP:Общие
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9103/index.m3u8
 #EXTINF:0 tvg-rec="3",Домашний orig
@@ -473,40 +458,40 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/407/index.m3u8
 #EXTINF:0 tvg-rec="3",РБК FHD
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2404/index.m3u8
-#EXTINF:0 tvg-rec="3",РБК-ТВ
+#EXTINF:0 tvg-rec="7",РБК-ТВ
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/106/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия-24
+#EXTINF:0 tvg-rec="7",Россия-24
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/507/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия-24 +2
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6013/index.m3u8
-#EXTINF:0 tvg-rec="3",Москва 24
+#EXTINF:0 tvg-rec="7",Москва 24
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/523/index.m3u8
 #EXTINF:0 tvg-rec="3",Мир 24 HD
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2107/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир 24
+#EXTINF:0 tvg-rec="7",Мир 24
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/712/index.m3u8
-#EXTINF:0 tvg-rec="3",Euronews Россия
+#EXTINF:0 tvg-rec="7",Euronews Россия
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/828/index.m3u8
-#EXTINF:0 tvg-rec="3",CGTN русский
+#EXTINF:0 tvg-rec="7",CGTN русский
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/831/index.m3u8
-#EXTINF:0 tvg-rec="3",Известия
+#EXTINF:0 tvg-rec="7",Известия
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2008/index.m3u8
 #EXTINF:0 tvg-rec="3",Центральное телевидение
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2064/index.m3u8
-#EXTINF:0 tvg-rec="3",NHK World TV
+#EXTINF:0 tvg-rec="7",NHK World TV
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/729/index.m3u8
-#EXTINF:0 tvg-rec="3",CGTN
+#EXTINF:0 tvg-rec="7",CGTN
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/830/index.m3u8
 #EXTINF:0 tvg-rec="3",Дождь HD orig
@@ -545,7 +530,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9222/index.m3u8
 #EXTINF:0 tvg-rec="3",CGTN Русский orig
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9223/index.m3u8
-#EXTINF:0 tvg-rec="0",360° Новости HD
+#EXTINF:0 tvg-rec="0",360° HD
 #EXTGRP:Новостные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7254/index.m3u8
 #EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
@@ -557,13 +542,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5004/index.m3u8
 #EXTINF:0 tvg-rec="3",Сериал UHD 4K
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5005/index.m3u8
-#EXTINF:0 tvg-rec="3",Остросюжетное HD
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/904/index.m3u8
 #EXTINF:0 tvg-rec="3",Премиальное FHD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2410/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/911/index.m3u8
 #EXTINF:0 tvg-rec="3",Дом кино Премиум HD orig
@@ -596,19 +581,19 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2443/index.m3u8
 #EXTINF:0 tvg-rec="3",Романтичное HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5053/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедийное HD
+#EXTINF:0 tvg-rec="7",Комедийное HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/912/index.m3u8
-#EXTINF:0 tvg-rec="3",Наш Кинороман HD
+#EXTINF:0 tvg-rec="7",Душевное кино HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/914/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше крутое HD
+#EXTINF:0 tvg-rec="7",Наше крутое HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/915/index.m3u8
 #EXTINF:0 tvg-rec="3",Наше любимое HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2106/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОПРЕМЬЕРА HD
+#EXTINF:0 tvg-rec="7",КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/224/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноужас HD
@@ -626,31 +611,31 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2131/index.m3u8
 #EXTINF:0 tvg-rec="3",КИНО ТВ HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2097/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium HD
+#EXTINF:0 tvg-rec="7",Amedia Premium HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/229/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox HD
+#EXTINF:0 tvg-rec="7",Fox HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/219/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood HD
+#EXTINF:0 tvg-rec="7",Hollywood HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/209/index.m3u8
 #EXTINF:0 tvg-rec="3",Bollywood HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/239/index.m3u8
-#EXTINF:0 tvg-rec="3",VIP Premiere
+#EXTINF:0 tvg-rec="7",VIP Premiere
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/202/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Premiere orig
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5079/index.m3u8
-#EXTINF:0 tvg-rec="3",VIP Comedy
+#EXTINF:0 tvg-rec="7",VIP Comedy
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/200/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Comedy orig
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5080/index.m3u8
-#EXTINF:0 tvg-rec="3",VIP Megahit
+#EXTINF:0 tvg-rec="7",VIP Megahit
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/201/index.m3u8
 #EXTINF:0 tvg-rec="3",VIP Megahit orig
@@ -665,127 +650,127 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5054/index.m3u8
 #EXTINF:0 tvg-rec="3",Победа HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5052/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа
+#EXTINF:0 tvg-rec="7",Победа
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2003/index.m3u8
 #EXTINF:0 tvg-rec="3",Paramount Channel HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5063/index.m3u8
-#EXTINF:0 tvg-rec="3",A2 HD
+#EXTINF:0 tvg-rec="7",A2 HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2046/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 1000 Русское кино
+#EXTINF:0 tvg-rec="7",TV 1000 Русское кино
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/101/index.m3u8
-#EXTINF:0 tvg-rec="3",Sony Sci-Fi
+#EXTINF:0 tvg-rec="7",Sony Sci-Fi
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/110/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОМИКС
+#EXTINF:0 tvg-rec="7",КИНОМИКС
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/509/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОСЕМЬЯ
+#EXTINF:0 tvg-rec="7",КИНОСЕМЬЯ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/125/index.m3u8
-#EXTINF:0 tvg-rec="3",РОДНОЕ КИНО
+#EXTINF:0 tvg-rec="7",РОДНОЕ КИНО
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/126/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 1000 Action
+#EXTINF:0 tvg-rec="7",TV 1000 Action
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/131/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинохит
+#EXTINF:0 tvg-rec="7",Кинохит
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/516/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 2
+#EXTINF:0 tvg-rec="7",Amedia 2
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/510/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше новое кино
+#EXTINF:0 tvg-rec="7",Наше новое кино
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/517/index.m3u8
-#EXTINF:0 tvg-rec="3",TV XXI
+#EXTINF:0 tvg-rec="7",TV XXI
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/525/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОКОМЕДИЯ
+#EXTINF:0 tvg-rec="7",КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/145/index.m3u8
-#EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
+#EXTINF:0 tvg-rec="7",ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/146/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОСЕРИЯ
+#EXTINF:0 tvg-rec="7",КИНОСЕРИЯ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/148/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский Иллюзион
+#EXTINF:0 tvg-rec="7",Русский Иллюзион
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/547/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино
+#EXTINF:0 tvg-rec="7",Еврокино
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/549/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Russia
+#EXTINF:0 tvg-rec="7",Fox Russia
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/550/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Life
+#EXTINF:0 tvg-rec="7",Fox Life
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/553/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино
+#EXTINF:0 tvg-rec="7",Дом Кино
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/154/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1
+#EXTINF:0 tvg-rec="7",Amedia 1
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/554/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium HD (SD)
+#EXTINF:0 tvg-rec="7",Amedia Premium HD (SD)
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/555/index.m3u8
-#EXTINF:0 tvg-rec="3",AMEDIA HIT
+#EXTINF:0 tvg-rec="7",AMEDIA HIT
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/556/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 1000
+#EXTINF:0 tvg-rec="7",TV 1000
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/132/index.m3u8
-#EXTINF:0 tvg-rec="3",МУЖСКОЕ КИНО
+#EXTINF:0 tvg-rec="7",МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/164/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood
+#EXTINF:0 tvg-rec="7",Hollywood
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/557/index.m3u8
-#EXTINF:0 tvg-rec="3",Sony Entertainment Television
+#EXTINF:0 tvg-rec="7",Sony Entertainment Television
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/559/index.m3u8
-#EXTINF:0 tvg-rec="3",2x2
+#EXTINF:0 tvg-rec="7",2x2
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/702/index.m3u8
-#EXTINF:0 tvg-rec="3",Sony Turbo
+#EXTINF:0 tvg-rec="7",Sony Turbo
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/708/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский бестселлер
+#EXTINF:0 tvg-rec="7",Русский бестселлер
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/905/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман
+#EXTINF:0 tvg-rec="7",Русский роман
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/906/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский детектив
+#EXTINF:0 tvg-rec="7",Русский детектив
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/907/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое Кино
+#EXTINF:0 tvg-rec="7",Любимое Кино
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/722/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНОСВИДАНИЕ
+#EXTINF:0 tvg-rec="7",КИНОСВИДАНИЕ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/728/index.m3u8
-#EXTINF:0 tvg-rec="3",КИНО ТВ
+#EXTINF:0 tvg-rec="7",КИНО ТВ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/732/index.m3u8
-#EXTINF:0 tvg-rec="3",Русская Комедия
+#EXTINF:0 tvg-rec="7",Русская Комедия
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/733/index.m3u8
-#EXTINF:0 tvg-rec="3",FAN
+#EXTINF:0 tvg-rec="7",FAN
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/734/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ‑ХИТ
+#EXTINF:0 tvg-rec="7",НТВ‑ХИТ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/741/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Сериал
+#EXTINF:0 tvg-rec="7",НТВ Сериал
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/744/index.m3u8
-#EXTINF:0 tvg-rec="3",НСТ
+#EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/726/index.m3u8
 #EXTINF:0 tvg-rec="3",ZEE TV
@@ -800,16 +785,16 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1066/index.m3u8
 #EXTINF:0 tvg-rec="3",TV1000 World Kino
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1065/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Сериала
+#EXTINF:0 tvg-rec="7",Мир Сериала
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/856/index.m3u8
-#EXTINF:0 tvg-rec="3",Ретро
+#EXTINF:0 tvg-rec="7",Ретро
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2018/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион +
+#EXTINF:0 tvg-rec="7",Иллюзион +
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2038/index.m3u8
-#EXTINF:0 tvg-rec="3",Феникс плюс Кино
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2039/index.m3u8
 #EXTINF:0 tvg-rec="3",Paramount Channel
@@ -824,7 +809,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2121/index.m3u8
 #EXTINF:0 tvg-rec="3",Cinéma
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5051/index.m3u8
-#EXTINF:0 tvg-rec="3",Paramount Comedy Russia
+#EXTINF:0 tvg-rec="7",Paramount Comedy Russia
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/157/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Hit HD
@@ -1133,6 +1118,9 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7347/index.m3u8
 #EXTINF:0 tvg-rec="0",Trash HD
 #EXTGRP:Кино
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7359/index.m3u8
+#EXTINF:0 tvg-rec="3",SHOT TV
+#EXTGRP:Кино
+http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/526/index.m3u8
 #EXTINF:0 tvg-rec="3",Super Tennis HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6079/index.m3u8
@@ -1142,19 +1130,19 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2414/index.m3u8
 #EXTINF:0 tvg-rec="3",Точка отрыва HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2128/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР HD
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/220/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/531/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! FHD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2413/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! HD
+#EXTINF:0 tvg-rec="7",Матч! HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/212/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч ТВ
+#EXTINF:0 tvg-rec="7",Матч ТВ
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/535/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +2
@@ -1169,73 +1157,73 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6052/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2407/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/222/index.m3u8
 #EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50 orig
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5072/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/124/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2420/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/211/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/530/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2408/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/206/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5071/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/522/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Игра FHD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2406/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра HD
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/225/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра
+#EXTINF:0 tvg-rec="7",Матч! Игра
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/529/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Арена HD
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/207/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Арена
+#EXTINF:0 tvg-rec="7",Матч! Арена
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/528/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ! СТРАНА
+#EXTINF:0 tvg-rec="7",МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/107/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Планета
+#EXTINF:0 tvg-rec="7",Матч! Планета
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/123/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Боец
+#EXTINF:0 tvg-rec="7",Матч! Боец
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/150/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 4K
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/4004/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 HD
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/228/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5075/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1
+#EXTINF:0 tvg-rec="7",Eurosport 1
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/141/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD
+#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/234/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD orig
@@ -1262,7 +1250,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/272/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD orig
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5068/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Sport HD
+#EXTINF:0 tvg-rec="7",Viasat Sport HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2007/index.m3u8
 #EXTINF:0 tvg-rec="3",VIASAT Sport HD orig
@@ -1274,7 +1262,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5078/index.m3u8
 #EXTINF:0 tvg-rec="3",UFC HD orig
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5067/index.m3u8
-#EXTINF:0 tvg-rec="3",UFC ТВ
+#EXTINF:0 tvg-rec="7",UFC ТВ
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2000/index.m3u8
 #EXTINF:0 tvg-rec="3",XSPORT HD
@@ -1289,16 +1277,16 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5003/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2077/index.m3u8
-#EXTINF:0 tvg-rec="3",Конный Мир HD
+#EXTINF:0 tvg-rec="7",Мир
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/214/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал КХЛ HD
+#EXTINF:0 tvg-rec="7",Телеканал КХЛ HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/215/index.m3u8
 #EXTINF:0 tvg-rec="3",КХЛ FHD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2403/index.m3u8
-#EXTINF:0 tvg-rec="3",KHL
+#EXTINF:0 tvg-rec="7",KHL
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/519/index.m3u8
 #EXTINF:0 tvg-rec="3",FAST&FUN BOX HD
@@ -1310,7 +1298,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2146/index.m3u8
 #EXTINF:0 tvg-rec="3",Моторспорт ТВ
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2145/index.m3u8
-#EXTINF:0 tvg-rec="3",Extreme Sports
+#EXTINF:0 tvg-rec="7",Extreme Sports
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/144/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол 1
@@ -1331,16 +1319,16 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/290/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол 3 HD orig
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5083/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Sport
+#EXTINF:0 tvg-rec="7",Viasat Sport
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/160/index.m3u8
 #EXTINF:0 tvg-rec="3",Fuel TV HD
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2396/index.m3u8
-#EXTINF:0 tvg-rec="3",M-1 Global TV
+#EXTINF:0 tvg-rec="7",M-1 Global TV
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/843/index.m3u8
-#EXTINF:0 tvg-rec="3",Бокс ТВ
+#EXTINF:0 tvg-rec="7",Бокс ТВ
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/870/index.m3u8
 #EXTINF:0 tvg-rec="3",СТАРТ
@@ -1349,10 +1337,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2154/index.m3u8
 #EXTINF:0 tvg-rec="3",Телеканал Футбол
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5050/index.m3u8
-#EXTINF:0 tvg-rec="3",Драйв
+#EXTINF:0 tvg-rec="7",Драйв
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2021/index.m3u8
-#EXTINF:0 tvg-rec="3",ЖИВИ!
+#EXTINF:0 tvg-rec="7",ЖИВИ!
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/738/index.m3u8
 #EXTINF:0 tvg-rec="3",Е HD
@@ -1406,31 +1394,31 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7363/index.m3u8
 #EXTINF:0 tvg-rec="0",Хоккей 5
 #EXTGRP:Спорт
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7364/index.m3u8
-#EXTINF:0 tvg-rec="3",BRIDGE HD
+#EXTINF:0 tvg-rec="7",BRIDGE HD
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/236/index.m3u8
 #EXTINF:0 tvg-rec="3",Жар Птица
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2142/index.m3u8
-#EXTINF:0 tvg-rec="3",Музыка
+#EXTINF:0 tvg-rec="7",Музыка
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/155/index.m3u8
-#EXTINF:0 tvg-rec="3",C-Music HD
+#EXTINF:0 tvg-rec="7",C-Music HD
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2028/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV 80s
+#EXTINF:0 tvg-rec="7",MTV 80s
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/724/index.m3u8
 #EXTINF:0 tvg-rec="3",MTV Россия HD
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2130/index.m3u8
-#EXTINF:0 tvg-rec="3",VH1 European
+#EXTINF:0 tvg-rec="7",VH1 European
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/536/index.m3u8
-#EXTINF:0 tvg-rec="3",Russian Music Box
+#EXTINF:0 tvg-rec="7",Russian Music Box
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2048/index.m3u8
-#EXTINF:0 tvg-rec="3",МУЗ-ТВ
+#EXTINF:0 tvg-rec="7",МУЗ-ТВ
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/116/index.m3u8
 #EXTINF:0 tvg-rec="0",Муз ТВ +4
@@ -1442,13 +1430,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1038/index.m3u8
 #EXTINF:0 tvg-rec="3",Жара HD
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2129/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo
+#EXTINF:0 tvg-rec="7",Mezzo
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/707/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2061/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge TV
+#EXTINF:0 tvg-rec="7",Bridge TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/122/index.m3u8
 #EXTINF:0 tvg-rec="3",Clubbing TV HD RU
@@ -1460,13 +1448,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2442/index.m3u8
 #EXTINF:0 tvg-rec="3",МузСоюз
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2137/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Hits
+#EXTINF:0 tvg-rec="7",MTV Hits
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/153/index.m3u8
-#EXTINF:0 tvg-rec="3",Шансон ТВ
+#EXTINF:0 tvg-rec="7",Шансон ТВ
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/859/index.m3u8
-#EXTINF:0 tvg-rec="3",BRIDGE TV HITS
+#EXTINF:0 tvg-rec="7",BRIDGE TV HITS
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/711/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв HD
@@ -1475,25 +1463,22 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2141/index.m3u8
 #EXTINF:0 tvg-rec="3",AIVA TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2156/index.m3u8
-#EXTINF:0 tvg-rec="3",Stingray Festival 4K
-#EXTGRP:Музыка
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5006/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo Live HD
+#EXTINF:0 tvg-rec="7",Mezzo Live HD
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/208/index.m3u8
-#EXTINF:0 tvg-rec="3",Ля-минор ТВ
+#EXTINF:0 tvg-rec="7",Ля-минор ТВ
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2043/index.m3u8
-#EXTINF:0 tvg-rec="3",Europa Plus TV
+#EXTINF:0 tvg-rec="7",Europa Plus TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/115/index.m3u8
 #EXTINF:0 tvg-rec="3",Vostok TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1054/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Live HD
+#EXTINF:0 tvg-rec="7",MTV Live HD
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/221/index.m3u8
-#EXTINF:0 tvg-rec="3",Club MTV
+#EXTINF:0 tvg-rec="7",Club MTV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/558/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай HD
@@ -1502,22 +1487,22 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2144/index.m3u8
 #EXTINF:0 tvg-rec="3",BRIDGE TV Русский Хит
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/120/index.m3u8
-#EXTINF:0 tvg-rec="3",MCM Top Russia
+#EXTINF:0 tvg-rec="7",MCM Top Russia
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/836/index.m3u8
-#EXTINF:0 tvg-rec="3",ЖАРА
+#EXTINF:0 tvg-rec="7",ЖАРА
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/105/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ MUSIC
+#EXTINF:0 tvg-rec="7",ТНТ MUSIC
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/710/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2068/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV
+#EXTINF:0 tvg-rec="7",MTV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/142/index.m3u8
-#EXTINF:0 tvg-rec="3",RU.TV
+#EXTINF:0 tvg-rec="7",RU.TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/838/index.m3u8
 #EXTINF:0 tvg-rec="3",1HD orig
@@ -1532,7 +1517,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9009/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge TV HD orig
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9012/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo HD orig
+#EXTINF:0 tvg-rec="3",Mezzo Live HD orig
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9014/index.m3u8
 #EXTINF:0 tvg-rec="3",iConcerts HD orig
@@ -1604,70 +1589,70 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9258/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge TV Classic orig
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9259/index.m3u8
-#EXTINF:0 tvg-rec="0",Mafi2a TV
+#EXTINF:0 tvg-rec="0",NRG 91
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ritsa TV
 #EXTGRP:Музыка
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/7224/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Kids HD
+#EXTINF:0 tvg-rec="7",СТС Kids HD
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2001/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon HD
+#EXTINF:0 tvg-rec="7",Nickelodeon HD
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/223/index.m3u8
-#EXTINF:0 tvg-rec="3",Tiji TV
+#EXTINF:0 tvg-rec="7",Tiji TV
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/108/index.m3u8
-#EXTINF:0 tvg-rec="3",Gulli
+#EXTINF:0 tvg-rec="7",Gulli
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/109/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr
+#EXTINF:0 tvg-rec="7",Nick Jr
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/114/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon
+#EXTINF:0 tvg-rec="7",Nickelodeon
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/541/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney
+#EXTINF:0 tvg-rec="7",Disney
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/524/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский мир
+#EXTINF:0 tvg-rec="7",Детский мир
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/543/index.m3u8
-#EXTINF:0 tvg-rec="3",Jim Jam
+#EXTINF:0 tvg-rec="7",Jim Jam
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/138/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoon Network
+#EXTINF:0 tvg-rec="7",Cartoon Network
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/143/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель
+#EXTINF:0 tvg-rec="7",Карусель
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/156/index.m3u8
-#EXTINF:0 tvg-rec="3",Ani
+#EXTINF:0 tvg-rec="7",Ani
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/129/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт
+#EXTINF:0 tvg-rec="7",Мульт
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/909/index.m3u8
-#EXTINF:0 tvg-rec="3",Тлум HD
+#EXTINF:0 tvg-rec="3",Мульт HD
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/240/index.m3u8
-#EXTINF:0 tvg-rec="3",Boomerang
+#EXTINF:0 tvg-rec="7",Boomerang
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/723/index.m3u8
-#EXTINF:0 tvg-rec="3",О!
+#EXTINF:0 tvg-rec="7",О!
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/727/index.m3u8
-#EXTINF:0 tvg-rec="3",Уникум
+#EXTINF:0 tvg-rec="7",Уникум
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/730/index.m3u8
-#EXTINF:0 tvg-rec="3",В гостях у сказки
+#EXTINF:0 tvg-rec="7",В гостях у сказки
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/737/index.m3u8
 #EXTINF:0 tvg-rec="3",Карусель (+3)
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/740/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультимузыка
+#EXTINF:0 tvg-rec="7",Мультимузыка
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/749/index.m3u8
 #EXTINF:0 tvg-rec="3",Duck TV
@@ -1679,7 +1664,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2084/index.m3u8
 #EXTINF:0 tvg-rec="3",Da Vinci Kids
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1033/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci Kids PL
+#EXTINF:0 tvg-rec="3",Da Vinci Kids UA
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1034/index.m3u8
 #EXTINF:0 tvg-rec="3",Малыш
@@ -1688,7 +1673,10 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1041/index.m3u8
 #EXTINF:0 tvg-rec="3",Nickelodeon EN
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1069/index.m3u8
-#EXTINF:0 tvg-rec="3",Радость моя
+#EXTINF:0 tvg-rec="7",NickToons
+#EXTGRP:Детские
+http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/849/index.m3u8
+#EXTINF:0 tvg-rec="7",Радость моя
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/853/index.m3u8
 #EXTINF:0 tvg-rec="3",Рыжий
@@ -1712,13 +1700,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5055/index.m3u8
 #EXTINF:0 tvg-rec="3",Уникум
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5056/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт HD
+#EXTINF:0 tvg-rec="7",Мульт HD
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/921/index.m3u8
 #EXTINF:0 tvg-rec="3",Nickelodeon HD orig
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9015/index.m3u8
-#EXTINF:0 tvg-rec="3",TLUM HD orig
+#EXTINF:0 tvg-rec="3",Мульт HD orig
 #EXTGRP:Детские
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9037/index.m3u8
 #EXTINF:0 tvg-rec="3",Уникум HD orig
@@ -1823,7 +1811,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9327/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat Nature orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9295/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый образовательный orig
+#EXTINF:0 tvg-rec="3",Flix Snip orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9311/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый вегетарианский orig
@@ -1862,7 +1850,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9324/index.m3u8
 #EXTINF:0 tvg-rec="3",Т24 orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9292/index.m3u8
-#EXTINF:0 tvg-rec="3",Здоровье orig
+#EXTINF:0 tvg-rec="3",Тонус ТВ Orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9308/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel+Adventure orig
@@ -1895,9 +1883,6 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9296/index.m3u8
 #EXTINF:0 tvg-rec="3",Ocean TV orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9312/index.m3u8
-#EXTINF:0 tvg-rec="3",Нано ТВ orig
-#EXTGRP:Познавательные
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9321/index.m3u8
 #EXTINF:0 tvg-rec="3",Home 4K
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/4002/index.m3u8
@@ -1949,61 +1934,61 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6001/index.m3u8
 #EXTINF:0 tvg-rec="3",National Geographic FHD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2416/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic HD
+#EXTINF:0 tvg-rec="7",National Geographic HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/230/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat History HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6002/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC HD
+#EXTINF:0 tvg-rec="7",TLC HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/232/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel HD
+#EXTINF:0 tvg-rec="7",Travel Channel HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/233/index.m3u8
-#EXTINF:0 tvg-rec="3",History HD
+#EXTINF:0 tvg-rec="7",History HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/231/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Nature/History HD
+#EXTINF:0 tvg-rec="7",Viasat Nature/History HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/203/index.m3u8
-#EXTINF:0 tvg-rec="3",H2 HD
+#EXTINF:0 tvg-rec="7",H2 HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2033/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/227/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel
+#EXTINF:0 tvg-rec="7",Discovery Channel
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/140/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG HD
+#EXTINF:0 tvg-rec="7",RTG HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/210/index.m3u8
 #EXTINF:0 tvg-rec="3",Nat Geo Wild FHD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2415/index.m3u8
-#EXTINF:0 tvg-rec="3",Nat Geo Wild HD
+#EXTINF:0 tvg-rec="7",Nat Geo Wild HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/216/index.m3u8
-#EXTINF:0 tvg-rec="3",Nat Geo Wild
+#EXTINF:0 tvg-rec="7",Nat Geo Wild
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/133/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Science
+#EXTINF:0 tvg-rec="7",Discovery Science
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/136/index.m3u8
-#EXTINF:0 tvg-rec="3",Animal Planet HD
+#EXTINF:0 tvg-rec="7",Animal Planet HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/218/index.m3u8
-#EXTINF:0 tvg-rec="3",Animal Planet
+#EXTINF:0 tvg-rec="7",Animal Planet
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/137/index.m3u8
-#EXTINF:0 tvg-rec="3",Охотник и рыболов HD
+#EXTINF:0 tvg-rec="7",Охотник и рыболов HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/917/index.m3u8
 #EXTINF:0 tvg-rec="3",ЕДА Премиум FHD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2418/index.m3u8
-#EXTINF:0 tvg-rec="3",ЕДА Премиум
+#EXTINF:0 tvg-rec="7",ЕДА Премиум
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/918/index.m3u8
 #EXTINF:0 tvg-rec="3",Food Network FHD
@@ -2021,30 +2006,27 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2089/index.m3u8
 #EXTINF:0 tvg-rec="3",Планета HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2090/index.m3u8
-#EXTINF:0 tvg-rec="3",Приключения HD
+#EXTINF:0 tvg-rec="7",Приключения HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/920/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами туриста HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2104/index.m3u8
-#EXTINF:0 tvg-rec="3",Большая Азия HD
+#EXTINF:0 tvg-rec="7",Большая Азия HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2009/index.m3u8
 #EXTINF:0 tvg-rec="3",DocuBox HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/968/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая охота HD
+#EXTINF:0 tvg-rec="7",Дикая охота HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2004/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая рыбалка HD
+#EXTINF:0 tvg-rec="7",Дикая рыбалка HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2005/index.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2394/index.m3u8
-#EXTINF:0 tvg-rec="3",Fine Living
-#EXTGRP:Познавательные
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/735/index.m3u8
 #EXTINF:0 tvg-rec="3",Синергия ТВ
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2067/index.m3u8
@@ -2054,37 +2036,37 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2124/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2102/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто Плюс
+#EXTINF:0 tvg-rec="7",Авто Плюс
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/151/index.m3u8
-#EXTINF:0 tvg-rec="3",Кухня ТВ
+#EXTINF:0 tvg-rec="7",Кухня ТВ
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/152/index.m3u8
 #EXTINF:0 tvg-rec="3",Нано ТВ HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2135/index.m3u8
-#EXTINF:0 tvg-rec="3",Время
+#EXTINF:0 tvg-rec="7",Время
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/552/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашние Животные
+#EXTINF:0 tvg-rec="7",Домашние Животные
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/158/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка отрыва
+#EXTINF:0 tvg-rec="7",Точка отрыва
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/159/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2153/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Nature
+#EXTINF:0 tvg-rec="7",Viasat Nature
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/161/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat History
+#EXTINF:0 tvg-rec="7",Viasat History
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/162/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Explore
+#EXTINF:0 tvg-rec="7",Viasat Explore
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/163/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel
+#EXTINF:0 tvg-rec="7",Travel Channel
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/130/index.m3u8
 #EXTINF:0 tvg-rec="3",Наука HD
@@ -2093,28 +2075,28 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2155/index.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5045/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый образовательный
+#EXTINF:0 tvg-rec="7",Flix Snip
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/701/index.m3u8
-#EXTINF:0 tvg-rec="3",OCEAN-TV
+#EXTINF:0 tvg-rec="7",OCEAN-TV
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/703/index.m3u8
-#EXTINF:0 tvg-rec="3",Бобёр
+#EXTINF:0 tvg-rec="7",Бобёр
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/725/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоопарк
+#EXTINF:0 tvg-rec="7",Зоопарк
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/731/index.m3u8
-#EXTINF:0 tvg-rec="3",E
+#EXTINF:0 tvg-rec="7",E
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/736/index.m3u8
-#EXTINF:0 tvg-rec="3",Морской
+#EXTINF:0 tvg-rec="7",Морской
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/742/index.m3u8
-#EXTINF:0 tvg-rec="3",Телекафе
+#EXTINF:0 tvg-rec="7",Телекафе
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/865/index.m3u8
-#EXTINF:0 tvg-rec="3",Усадьба
+#EXTINF:0 tvg-rec="7",Усадьба
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/532/index.m3u8
 #EXTINF:0 tvg-rec="3",English Club TV
@@ -2132,34 +2114,31 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1037/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel Channel EN
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1070/index.m3u8
-#EXTINF:0 tvg-rec="3",History Russia
+#EXTINF:0 tvg-rec="7",History Russia
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/837/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG TV
+#EXTINF:0 tvg-rec="7",RTG TV
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/841/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикий
+#EXTINF:0 tvg-rec="7",Дикий
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/847/index.m3u8
-#EXTINF:0 tvg-rec="3",Spike Russia
-#EXTGRP:Познавательные
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/849/index.m3u8
-#EXTINF:0 tvg-rec="3",travel+adventure
+#EXTINF:0 tvg-rec="7",travel+adventure
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/850/index.m3u8
-#EXTINF:0 tvg-rec="3",Поехали!
+#EXTINF:0 tvg-rec="7",Поехали!
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/135/index.m3u8
-#EXTINF:0 tvg-rec="3",Galaxy
+#EXTINF:0 tvg-rec="7",Galaxy
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2010/index.m3u8
-#EXTINF:0 tvg-rec="3",Охота и рыбалка
+#EXTINF:0 tvg-rec="7",Охота и рыбалка
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2019/index.m3u8
-#EXTINF:0 tvg-rec="3",ЕГЭ ТВ
+#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2020/index.m3u8
-#EXTINF:0 tvg-rec="3",HD Media
+#EXTINF:0 tvg-rec="7",HD Media
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2037/index.m3u8
 #EXTINF:0 tvg-rec="3",365 дней ТВ
@@ -2207,37 +2186,37 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1010/index.m3u8
 #EXTINF:0 tvg-rec="3",World Fashion Channel
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1068/index.m3u8
-#EXTINF:0 tvg-rec="3",Мужской
+#EXTINF:0 tvg-rec="7",Мужской
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2047/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал Да Винчи
+#EXTINF:0 tvg-rec="7",Телеканал Да Винчи
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/537/index.m3u8
-#EXTINF:0 tvg-rec="3",Мама
+#EXTINF:0 tvg-rec="7",Мама
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/704/index.m3u8
-#EXTINF:0 tvg-rec="3",CBS Reality
+#EXTINF:0 tvg-rec="7",CBS Reality
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/706/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Стиль
+#EXTINF:0 tvg-rec="7",НТВ Стиль
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/745/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Право
+#EXTINF:0 tvg-rec="7",НТВ Право
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/743/index.m3u8
 #EXTINF:0 tvg-rec="3",Kabbala TV
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1053/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый Вегетарианский
+#EXTINF:0 tvg-rec="7",Первый Вегетарианский
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/833/index.m3u8
-#EXTINF:0 tvg-rec="3",Загородная Жизнь
+#EXTINF:0 tvg-rec="7",Загородная Жизнь
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/852/index.m3u8
-#EXTINF:0 tvg-rec="3",Просвещение
+#EXTINF:0 tvg-rec="7",Просвещение
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/846/index.m3u8
-#EXTINF:0 tvg-rec="3",ТДК
+#EXTINF:0 tvg-rec="7",ТДК
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2034/index.m3u8
 #EXTINF:0 tvg-rec="3",Связист ТВ
@@ -2255,25 +2234,25 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2149/index.m3u8
 #EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5037/index.m3u8
-#EXTINF:0 tvg-rec="3",История
+#EXTINF:0 tvg-rec="7",История
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/111/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Планета
+#EXTINF:0 tvg-rec="7",Моя Планета
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/117/index.m3u8
-#EXTINF:0 tvg-rec="3",Outdoor Channel
+#EXTINF:0 tvg-rec="7",Outdoor Channel
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/119/index.m3u8
-#EXTINF:0 tvg-rec="3",Вопросы и ответы
+#EXTINF:0 tvg-rec="7",Вопросы и ответы
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2026/index.m3u8
-#EXTINF:0 tvg-rec="3",Совершенно секретно
+#EXTINF:0 tvg-rec="7",Совершенно секретно
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/121/index.m3u8
-#EXTINF:0 tvg-rec="3",Доктор
+#EXTINF:0 tvg-rec="7",Доктор
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/512/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто 24
+#EXTINF:0 tvg-rec="7",Авто 24
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/538/index.m3u8
 #EXTINF:0 tvg-rec="3",Теледом HD
@@ -2393,7 +2372,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9279/index.m3u8
 #EXTINF:0 tvg-rec="3",RTG TV orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9280/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый Метео orig
+#EXTINF:0 tvg-rec="3",Восьмой канал orig
 #EXTGRP:Познавательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9281/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикий orig
@@ -2420,13 +2399,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5002/index.m3u8
 #EXTINF:0 tvg-rec="3",FTV UHD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/4005/index.m3u8
-#EXTINF:0 tvg-rec="3",HD Life
+#EXTINF:0 tvg-rec="7",HD Life
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/226/index.m3u8
-#EXTINF:0 tvg-rec="3",Эврика HD
+#EXTINF:0 tvg-rec="7",Первый космический HD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/908/index.m3u8
-#EXTINF:0 tvg-rec="3",DTX HD
+#EXTINF:0 tvg-rec="7",DTX HD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2006/index.m3u8
 #EXTINF:0 tvg-rec="3",DTX HD orig
@@ -2435,13 +2414,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5064/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion TV FHD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2411/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion TV HD
+#EXTINF:0 tvg-rec="7",Fashion TV HD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2045/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion One FHD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2412/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion One HD
+#EXTINF:0 tvg-rec="7",Fashion One HD
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2044/index.m3u8
 #EXTINF:0 tvg-rec="3",Арсенал HD
@@ -2459,13 +2438,13 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2072/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5032/index.m3u8
-#EXTINF:0 tvg-rec="3",Продвижение
+#EXTINF:0 tvg-rec="7",Продвижение
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/851/index.m3u8
-#EXTINF:0 tvg-rec="3",ACB TV
+#EXTINF:0 tvg-rec="7",ACB TV
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/868/index.m3u8
-#EXTINF:0 tvg-rec="3",Globalstar TV
+#EXTINF:0 tvg-rec="7",Globalstar TV
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2035/index.m3u8
 #EXTINF:0 tvg-rec="3",Раз ТВ
@@ -2483,7 +2462,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9000/index.m3u8
 #EXTINF:0 tvg-rec="3",LUXURY WORLD HD orig
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9038/index.m3u8
-#EXTINF:0 tvg-rec="3",Эврика HD orig
+#EXTINF:0 tvg-rec="3",Первый космический HD orig
 #EXTGRP:Развлекательные
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9049/index.m3u8
 #EXTINF:0 tvg-rec="3",Продвижение orig
@@ -2534,9 +2513,6 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/2160/index.m3u8
 #EXTINF:0 tvg-rec="3",Redlight HD
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/242/index.m3u8
-#EXTINF:0 tvg-rec="3",SHOT TV
-#EXTGRP:Взрослые
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/526/index.m3u8
 #EXTINF:0 tvg-rec="0",Blue Hustler
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1064/index.m3u8
@@ -2579,7 +2555,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5013/index.m3u8
 #EXTINF:0 tvg-rec="0",SCT
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/876/index.m3u8
-#EXTINF:0 tvg-rec="0",Penthouse TV
+#EXTINF:0 tvg-rec="0",Penthouse Passion HD
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1073/index.m3u8
 #EXTINF:0 tvg-rec="3",O-la-la
@@ -3008,9 +2984,6 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6297/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperOne HD
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6298/index.m3u8
-#EXTINF:0 tvg-rec="0",Искушение HD orig
-#EXTGRP:Взрослые
-http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9006/index.m3u8
 #EXTINF:0 tvg-rec="0",Dorcel HD orig
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9064/index.m3u8
@@ -3023,7 +2996,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9066/index.m3u8
 #EXTINF:0 tvg-rec="0",Passion XXX orig
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9067/index.m3u8
-#EXTINF:0 tvg-rec="0",Satisfaction HD orig
+#EXTINF:0 tvg-rec="0",O-La-La orig
 #EXTGRP:Взрослые
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/9068/index.m3u8
 #EXTINF:0 tvg-rec="0",Ню Арт HD orig
@@ -3224,7 +3197,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/6009/index.m3u8
 #EXTINF:0 tvg-rec="3",BBB TV
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/959/index.m3u8
-#EXTINF:0 tvg-rec="3",Центральный канал
+#EXTINF:0 tvg-rec="3",UA:Київ
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/963/index.m3u8
 #EXTINF:0 tvg-rec="3",Черноморская ТРК
@@ -3272,7 +3245,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/940/index.m3u8
 #EXTINF:0 tvg-rec="3",Культура
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/941/index.m3u8
-#EXTINF:0 tvg-rec="3",Телевсесвiт
+#EXTINF:0 tvg-rec="3",ТВС HD UA
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/942/index.m3u8
 #EXTINF:0 tvg-rec="3",Медiаiнформ
@@ -3350,7 +3323,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1030/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Family
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1042/index.m3u8
-#EXTINF:0 tvg-rec="3",Интер+
+#EXTINF:0 tvg-rec="3",Інтер HD
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/1047/index.m3u8
 #EXTINF:0 tvg-rec="3",O-TV
@@ -3473,7 +3446,7 @@ http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5039/index.m3u8
 #EXTINF:0 tvg-rec="3",33 канал
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5040/index.m3u8
-#EXTINF:0 tvg-rec="3",Тернопіль 1
+#EXTINF:0 tvg-rec="3",UA:Тернопіль
 #EXTGRP:Украина | Українські
 http://65cca1b7.edmonst.net/iptv/YZFLVAFRQQALPN/5041/index.m3u8
 #EXTINF:0 tvg-rec="3",Перший Західний
